@@ -54,7 +54,7 @@ This helps administrators maintain entity records efficiently and organize them 
 3. Update the required entity details.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_16_for_3422650690.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_14_for_3422650690.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete an Entity** <a href="#delete-an-entity" id="delete-an-entity"></a>
 

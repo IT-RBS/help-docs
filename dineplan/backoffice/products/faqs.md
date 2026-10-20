@@ -127,7 +127,7 @@ To configure a group of choice items (e.g., Choice of Drinks or Sides) with min/
 6. Click **"OK"** to apply product selections.
 7. Select **"Save"** to store the combo group.
 
-<figure><img src="../../.gitbook/assets/image (482).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (481).png" alt=""><figcaption></figcaption></figure>
 
 ## 10. How do I create a new Combo Product and link it to Combo Groups?
 
@@ -165,7 +165,7 @@ To create standardized pricing templates or tags:
 3. Enter the tag value in **"Price Tag"**.
 4. Select **"Save"**.
 
-<figure><img src="../../.gitbook/assets/image (479).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** Both **Price Definition Name** and **Price Tag** are mandatory fields. Leaving either field empty triggers a validation error message.
 
@@ -264,4 +264,3 @@ To modify tax percentages or target assignment rules:
 6. Select **"Save"** to apply the changes.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-

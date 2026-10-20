@@ -55,13 +55,13 @@ Before ending the Workday, ensure that:
 
 The **"End Workday"** button remains disabled if there are any open customer tickets. The number of open tickets is displayed in the right corner of the screen. All open tickets must be resolved before the Workday can be ended.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 #### Procedure to Resolve Open Tickets
 
 1. Open **"Tickets"** from the dashboard.
 
-<figure><img src="../.gitbook/assets/image (580).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
 2. Select the required date.
 3. Select **"Open Tickets"** from the filter.

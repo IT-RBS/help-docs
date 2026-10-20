@@ -48,7 +48,7 @@ The Number Generator setting allows you to manage number generators used for dif
 3. Update the required details.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_5_for_3423698947.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_3_for_3423698947.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Number Generator** <a href="#delete-a-number-generator" id="delete-a-number-generator"></a>
 

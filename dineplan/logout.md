@@ -21,7 +21,7 @@ Logging out does not close the DinePlan application. It only ends the current us
 
 * Log Out – Use this option when you want to end the current user's session and return to the Login screen.
 
-<figure><img src=".gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 * Exit – Use this option when you want to completely close the DinePlan application.
 

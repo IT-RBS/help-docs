@@ -53,7 +53,7 @@ The screen also provides options to manage member and customer information when 
 
 The table status is displayed using different colours.
 
-<figure><img src="../../.gitbook/assets/att_3_for_3393028097.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_2_for_3392831498.png" alt=""><figcaption></figcaption></figure>
 
 | **Colour** | **Status**                        | **Description**                                                                              |
 | ---------- | --------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -93,7 +93,7 @@ If the required member does not exist:
 
 1. Open "Members".
 
-<figure><img src="../../.gitbook/assets/att_9_for_3393028097.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_4_for_3393028097.png" alt=""><figcaption></figcaption></figure>
 
 2. Select "New Members".
 

@@ -12,7 +12,7 @@ To create a new till account for organizing till-related financial transactions 
 6. Enter the starting or designated value in the **"Amount"** field.
 7. Select **"Save"** to create the till account.
 
-<figure><img src="../../.gitbook/assets/image (538).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (537).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** Specifying a **Till Account Name** is required before saving.
 
@@ -69,7 +69,7 @@ To customize the visual sequence of accounts displayed in the **Till Account Lis
 
 **Note:** If you want to discard your order changes without saving them, select **"Cancel"** in the sorting window.
 
-## &#x20;6. How do I search for a specific Till Account in BackOffice?
+## 6. How do I search for a specific Till Account in BackOffice?
 
 To locate a particular account quickly when managing a long list of till accounts:
 
@@ -91,7 +91,7 @@ To create a new general ledger or operational account in BackOffice:
 5. Click the **"Currency"** dropdown menu and select the required currency associated with the account.
 6. Select **"Save"** to create the account record.
 
-<figure><img src="../../.gitbook/assets/image (532).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (531).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** Both **Account Name** and **Account Type** are strictly required before an account can be saved.
 
@@ -130,7 +130,7 @@ To remove an account that is no longer required for restaurant system operations
 4. Review the confirmation prompt message displayed by the system.
 5. Select **"Yes"** to confirm and permanently delete the account (or select **"No"** to cancel).
 
-<figure><img src="../../.gitbook/assets/image (527).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
 
 ## 11. How do I change the display sequence of Accounts in BackOffice?
 
@@ -141,7 +141,7 @@ To rearrange the display layout of accounts in the **Account List**:
 3. In the sorting display window, drag the listed accounts into your required order.
 4. Confirm and apply the updated display sequence.
 
-<figure><img src="../../.gitbook/assets/image (526).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (523).png" alt=""><figcaption></figcaption></figure>
 
 ## 12. How do I create a new Account Type category to classify system accounts?
 
@@ -208,7 +208,7 @@ To define a new financial transaction type and configure its accounting debit an
 6. Select the **"Target Account Type (Credit)"** and choose a **"Default Target Account"**.
 7. Select **"Save"** to add the transaction type to the list.
 
-<figure><img src="../../.gitbook/assets/image (519).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (518).png" alt=""><figcaption></figcaption></figure>
 
 ## 17. Which fields are mandatory when creating a new Account Transaction Type?
 
@@ -232,7 +232,7 @@ To update the debit/credit rules, default accounts, or currency for a transactio
 4. Update the required fields (**Account Transaction Type Name**, **Currency**, **Source Account Type (Debit)**, **Default Source Account**, **Target Account Type (Credit)**, or **Default Target Account**).
 5. Select **"Save"** to apply the updated changes.
 
-<figure><img src="../../.gitbook/assets/image (517).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (516).png" alt=""><figcaption></figcaption></figure>
 
 ## 19. How do I delete an obsolete Account Transaction Type from BackOffice?
 

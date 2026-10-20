@@ -60,7 +60,7 @@ The following screen elements are common to all reports in the Custom Reports ca
 
 * Prints the currently displayed report.
 
-<figure><img src="../../.gitbook/assets/att_129_for_3350265859 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_129_for_3350265859.png" alt=""><figcaption></figcaption></figure>
 
 ### **Speed of Service Report** <a href="#speed-of-service-report" id="speed-of-service-report"></a>
 

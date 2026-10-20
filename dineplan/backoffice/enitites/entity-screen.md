@@ -73,7 +73,7 @@ The Entity Screen setting allows users to create and manage screens for displayi
 3. Update the required details.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_34_for_3422650690.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_32_for_3422650690.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete an Entity Screen** <a href="#delete-an-entity-screen" id="delete-an-entity-screen"></a>
 

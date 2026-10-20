@@ -58,7 +58,7 @@ The Price Definition setting allows you to create and manage price definitions u
 3. Update the required details.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_72_for_3421863938.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_70_for_3421863938.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Price Definition** <a href="#delete-a-price-definition" id="delete-a-price-definition"></a>
 

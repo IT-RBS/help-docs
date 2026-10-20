@@ -61,7 +61,7 @@ The **Trigger** feature allows administrators to create and manage triggers that
 3. Modify the required trigger details or expression.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_37_for_3422715932.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_35_for_3422715932.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Trigger** <a href="#delete-a-trigger" id="delete-a-trigger"></a>
 

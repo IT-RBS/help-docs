@@ -61,7 +61,7 @@ Note: The Till Account Name is required. If it is left empty, the system display
 3. Update the required account details.
 4. Select "Save" to apply the changes.
 
-<figure><img src="../../.gitbook/assets/att_5_for_3422617606.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_3_for_3422617606.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Till Account** <a href="#delete-a-till-account" id="delete-a-till-account"></a>
 

@@ -65,7 +65,7 @@ The Automation Rules feature allows administrators to manage rules that define a
 3. Update the required rule settings, constraints, actions, or mappings.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_26_for_3422715932.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_24_for_3422715932.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Rule** <a href="#delete-a-rule" id="delete-a-rule"></a>
 

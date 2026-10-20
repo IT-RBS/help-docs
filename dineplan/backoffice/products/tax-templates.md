@@ -78,7 +78,7 @@ The Tax Templates setting allows you to create and manage tax templates used for
 4. Modify the mappings if required.
 5. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_101_for_3421863938.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_99_for_3421863938.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Tax Template** <a href="#delete-a-tax-template" id="delete-a-tax-template"></a>
 

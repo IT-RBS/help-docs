@@ -77,7 +77,7 @@ Each selector can be configured with general settings, applicable calculation ty
 3. Update the required general settings, calculation types, or mappings.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_95_for_3423698947.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_93_for_3423698947.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Calculation Selector** <a href="#delete-a-calculation-selector" id="delete-a-calculation-selector"></a>
 

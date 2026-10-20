@@ -9,7 +9,7 @@ The Till Transactions feature allows users to manage cashier till accounts by re
 1. Log in to “DinePlan”.
 2. From the “Dashboard”, select “Front Desk”.
 
-<figure><img src="../../.gitbook/assets/att_0_for_3348889625.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_0_for_3348856872.png" alt=""><figcaption></figcaption></figure>
 
 3. Select “Till Transactions”.
 
@@ -49,7 +49,7 @@ Use this option to create a new till transaction and record the opening till bal
 
 1. Open “Front Desk” → “Till Transactions”.
 
-<figure><img src="../../.gitbook/assets/att_3_for_3348889625.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3348889625.png" alt=""><figcaption></figcaption></figure>
 
 2. Select “Add Details”.
 
@@ -85,12 +85,12 @@ Use this option to generate a summary of a till transaction.
 
 1. Open “Front Desk” → “Till Transactions”.
 
-<figure><img src="../../.gitbook/assets/att_10_for_3348889625.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3348889625.png" alt=""><figcaption></figcaption></figure>
 
 2. Select the required till transaction.
 3. Select “Print Summary”.
 
-<figure><img src="../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
 
 5. The system generates and prints the summary of the selected till transaction.
 
@@ -100,7 +100,7 @@ Use this option to remove a till transaction record.
 
 1. Open “Front Desk” → “Till Transactions”.
 
-<figure><img src="../../.gitbook/assets/att_12_for_3348889625.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3348889625.png" alt=""><figcaption></figcaption></figure>
 
 2. Select the required till transaction.
 3. Select “Delete”.

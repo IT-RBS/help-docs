@@ -68,7 +68,7 @@ To permanently remove an unneeded state from the system:
 4. A system confirmation message will appear on screen.
 5. Select **"Yes"** to delete the state, or select **"No"** to cancel the operation.
 
-<figure><img src="../../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** Review the selected state carefully before deleting, as deletion requires explicit confirmation.
 
@@ -120,7 +120,7 @@ To modify the name, type, or parameter values of a saved action:
 4. Update the **Action Name**, **Action Type**, or **Parameters** as needed.
 5. Select **"Save"** to update the record.
 
-<figure><img src="../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (443).png" alt=""><figcaption></figcaption></figure>
 
 ## 10. How do I change the display and execution sequence of Actions?
 
@@ -201,7 +201,7 @@ To modify rule constraints, events, or actions:
 4. Update the **Rule Name**, **Event Name**, **Custom Constraint List**, **Actions**, or **Mappings**.
 5. Select **"Save"**.
 
-<figure><img src="../../.gitbook/assets/image (452).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (448).png" alt=""><figcaption></figcaption></figure>
 
 ## 16. How do I reorder Automation Rules in the Rule List?
 
@@ -345,7 +345,7 @@ To style command buttons used on terminals:
    * **Button Header Resource Key:** Specify a localization resource key if applicable.
 3. Select **"Save"**.
 
-<figure><img src="../../.gitbook/assets/image (464).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (463).png" alt=""><figcaption></figcaption></figure>
 
 ## 28. How do I map an Automation Command to specific states and visibilities?
 
@@ -435,4 +435,3 @@ To manage task classifications and custom data fields:
 * **To Reorder:** Select **"Change Sort Order"**, drag task types into position, and select **"OK"**.
 
 <figure><img src="../../.gitbook/assets/image (472).png" alt=""><figcaption></figcaption></figure>
-

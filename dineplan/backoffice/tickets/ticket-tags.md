@@ -79,7 +79,7 @@ The Ticket Tags setting allows you to manage tags used for tickets. You can add 
 3. Modify the required configuration.
 4. Select "Save" to apply the changes.
 
-<figure><img src="../../.gitbook/assets/att_29_for_3423698947.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_27_for_3423698947.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Ticket Tag** <a href="#delete-a-ticket-tag" id="delete-a-ticket-tag"></a>
 

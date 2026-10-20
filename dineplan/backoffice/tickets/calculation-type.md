@@ -57,7 +57,7 @@ Administrators can add new calculation types by defining the calculation method,
 3. Update the required calculation settings or tax template configuration.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_80_for_3423698947.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_78_for_3423698947.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Calculation Type** <a href="#delete-a-calculation-type" id="delete-a-calculation-type"></a>
 

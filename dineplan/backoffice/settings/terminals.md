@@ -59,7 +59,7 @@ The Terminals section is used to configure and manage the terminals used in the 
 3. Update the required terminal information.
 4. Select "Save" to apply the changes.
 
-<figure><img src="../../.gitbook/assets/att_55_for_3423535115.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_53_for_3423535115.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Terminal** <a href="#delete-a-terminal" id="delete-a-terminal"></a>
 

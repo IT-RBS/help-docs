@@ -59,7 +59,7 @@ You can add, edit, delete, and sort product timers.
 3. Update the required settings or mappings.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_42_for_3421863938.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_40_for_3421863938.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Product Timer** <a href="#delete-a-product-timer" id="delete-a-product-timer"></a>
 
@@ -82,15 +82,15 @@ You can add, edit, delete, and sort product timers.
 
 ### **Use Case** <a href="#use-case.3" id="use-case.3"></a>
 
-* Configure timers for products that require time-based tracking or duration settings.&#x20;
-* Set the required "Price Duration" to define the duration associated with a product.&#x20;
-* Use "Min Time" to configure the minimum time applicable to the product timer.&#x20;
-* Configure "Time Rounding" when the product timer requires time values to be rounded according to specific intervals.&#x20;
-* Set "Start Time" to control when the timer should begin based on the configured requirement.&#x20;
-* Map timers to specific "Products" or "Product Groups" to apply the required timer configuration.&#x20;
-* Apply different timer configurations based on "User Role", "Department", or "Ticket Type".&#x20;
-* Maintain multiple product timers and organize them in the required order for easier management in the Back Office.&#x20;
-* Product Timer can be used when products require time-based configuration.&#x20;
+* Configure timers for products that require time-based tracking or duration settings.
+* Set the required "Price Duration" to define the duration associated with a product.
+* Use "Min Time" to configure the minimum time applicable to the product timer.
+* Configure "Time Rounding" when the product timer requires time values to be rounded according to specific intervals.
+* Set "Start Time" to control when the timer should begin based on the configured requirement.
+* Map timers to specific "Products" or "Product Groups" to apply the required timer configuration.
+* Apply different timer configurations based on "User Role", "Department", or "Ticket Type".
+* Maintain multiple product timers and organize them in the required order for easier management in the Back Office.
+* Product Timer can be used when products require time-based configuration.
 * The timer can be configured with duration-related settings and mapped to specific products or other criteria such as user roles, departments, and ticket types.
 
 ### **Notes** <a href="#notes.3" id="notes.3"></a>

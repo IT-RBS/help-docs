@@ -76,7 +76,7 @@ When configuring a feedback question, these three fields govern how responses ar
 * **Negative Answer:** Specifies the negative response value associated with the question for evaluation tracking.
 * **Question Type:** Specifies the type of response required for the question (such as rating, text, or multiple choice).
 
-<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 ## 7. How do I close the Feedback Question management screen?
 

@@ -58,7 +58,7 @@ You can add new products, edit existing products, delete products, change their 
 
 1. Select "Add Product".
 
-<figure><img src="../../.gitbook/assets/att_17_for_3421863938 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_17_for_3421863938.png" alt=""><figcaption></figcaption></figure>
 
 2. Enter the product name in "POS".
 
@@ -91,7 +91,7 @@ You can add new products, edit existing products, delete products, change their 
 3. Update the required details.
 4. Select "Save" to apply the changes.
 
-<figure><img src="../../.gitbook/assets/att_24_for_3421863938.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_22_for_3421863938.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Product** <a href="#delete-a-product" id="delete-a-product"></a>
 

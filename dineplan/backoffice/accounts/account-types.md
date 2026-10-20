@@ -61,7 +61,7 @@ Administrators can add new account types, edit existing ones, delete unnecessary
 3. Update the account type details as required.
 4. Save the changes.
 
-<figure><img src="../../.gitbook/assets/att_18_for_3422617606.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_16_for_3422617606.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete Account Type** <a href="#delete-account-type" id="delete-account-type"></a>
 

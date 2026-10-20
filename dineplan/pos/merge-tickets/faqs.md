@@ -143,7 +143,7 @@ When multiple tickets appear on the ordering screen after using **"Change Table"
 4. Ensure unselected tickets (belonging to other guests) remain unhighlighted.
 5. Verify that all required tickets are highlighted as **Selected Ticket** entries before clicking **"Merge"**.
 
-<figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
 ## 12. How does the Table Selection Screen work when associating orders from different tables?
 
@@ -165,7 +165,7 @@ Immediately after clicking **"Merge"**, perform the following verification check
 * **Verify Amount:** Check the combined total ticket amount for accuracy.
 * **Confirm Exclusion:** Ensure no unrelated ticket or item from another table was accidentally included.
 
-<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** Always perform this verification check before tapping **"Pay"**.
 
@@ -192,5 +192,4 @@ To prevent billing errors and accidental order merging, follow these documented 
 * **Select only required tickets:** Ensure only the customer's specific ticket numbers are highlighted before clicking **"Merge"**.
 * **Always verify before payment:** Check the final combined ticket and total amount before clicking **"Pay"**.
 
-<figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>

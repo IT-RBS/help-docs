@@ -63,7 +63,7 @@ The Printer Job section is used to manage the print jobs configured in the syste
 5. To remove an existing mapping, select the required mapping and select "Delete".
 6. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_17_for_3422650369.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_15_for_3422650369.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete Print Job** <a href="#delete-print-job" id="delete-print-job"></a>
 

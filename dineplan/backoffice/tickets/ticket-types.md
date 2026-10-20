@@ -70,7 +70,7 @@ The Ticket Types setting allows you to manage the different types of tickets use
 3. Update the required settings, entity types, or menu mappings.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_17_for_3423698947.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_15_for_3423698947.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Ticket Type** <a href="#delete-a-ticket-type" id="delete-a-ticket-type"></a>
 

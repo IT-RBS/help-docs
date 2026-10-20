@@ -165,7 +165,7 @@ To fix visual display issues or adjust layout sizing for high-resolution monitor
 6. Specify active ticket status values in **"Ticket Filter Status (Separated by Comma)"**.
 7. Select **"Save"**.
 
-<figure><img src="../../.gitbook/assets/image (567).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (566).png" alt=""><figcaption></figcaption></figure>
 
 ## 13. How do I customize which ticket columns are displayed or hidden in the POS list?
 

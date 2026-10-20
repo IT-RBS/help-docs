@@ -60,7 +60,7 @@ The User Roles setting allows administrators to create and manage roles for user
 3. Update the required role details or permissions.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_13_for_3422453783.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_11_for_3422453783.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete User Role** <a href="#delete-user-role" id="delete-user-role"></a>
 

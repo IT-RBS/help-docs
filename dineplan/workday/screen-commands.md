@@ -32,7 +32,7 @@ When Training Mode is enabled, the "Training" status is displayed on the DinePla
 
 1. Open the "Workday" module.
 
-<figure><img src="../.gitbook/assets/att_47_for_3349348540.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/att_37_for_3349348540.png" alt=""><figcaption></figcaption></figure>
 
 2. Click "Enable Training".
 
@@ -66,7 +66,7 @@ After Training Mode is disabled, new transactions are processed as live business
 
 1. Open the "Workday" module.
 
-<figure><img src="../.gitbook/assets/att_52_for_3349348540.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/att_37_for_3349348540.png" alt=""><figcaption></figcaption></figure>
 
 2. Click "Disable Training".
 

@@ -50,7 +50,7 @@ The Workday module can be accessed from the DinePlan Home screen. Users with the
 
 3. The “Workday” screen opens.
 
-<figure><img src="../.gitbook/assets/att_4_for_3349348540.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.1.png" alt=""><figcaption></figcaption></figure>
 
 The **Workday** screen provides the options required to manage the business day and its associated Work Shifts. Once the Workday screen is opened, users can start the business day and proceed with the required Work Shift operations.
 

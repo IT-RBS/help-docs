@@ -4,7 +4,7 @@
 
 The Foreign Currency section is used to configure currencies that can be used in the system. Users can add, edit, delete, and change the sort order of configured currencies based on the restaurant's requirements.
 
-<figure><img src="../../.gitbook/assets/image-20261005-105410 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-20261005-105410.png" alt=""><figcaption></figcaption></figure>
 
 ### **Screen Elements** <a href="#screen-elements.8" id="screen-elements.8"></a>
 
@@ -45,7 +45,7 @@ The Foreign Currency section is used to configure currencies that can be used in
 3. Update the required information.
 4. Select "Save" to apply the changes.
 
-<figure><img src="../../.gitbook/assets/att_73_for_3423535115.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_71_for_3423535115.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Foreign Currency** <a href="#delete-a-foreign-currency" id="delete-a-foreign-currency"></a>
 

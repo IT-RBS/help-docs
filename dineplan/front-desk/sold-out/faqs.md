@@ -153,7 +153,7 @@ When creating a tag-based sold-out restriction via **“Add Item Tag”** _**→
 * **Counter value:** Verify or enter the counter value, if applicable.
 * **Add:** Select **“Add”** to commit the tag to the sold-out list.
 
-<figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
 
 ## 13. What happens in the POS system when an item is added to the Sold Out list?
 
@@ -256,4 +256,3 @@ You should use the **Sold Out** feature in the following practical scenarios:
 * **Restoring items:** To quickly reactivate menu items as soon as fresh inventory arrives.
 
 <figure><img src="../../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
-

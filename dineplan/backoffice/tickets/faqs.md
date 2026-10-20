@@ -23,7 +23,7 @@ To set up a new ticket type (such as Dine-In, Takeaway, or Delivery) in DinePlan
 7. Select **"Menu Mapping"** to assign terminals and menus to the ticket type.
 8. Select **"Save"** to create the ticket type.
 
-<figure><img src="../../.gitbook/assets/image (512).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (510).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** Ensure all required fields, entity types, and menu mappings are verified before selecting **Save**.
 
@@ -213,7 +213,7 @@ To define calculation rules for discounts, surcharges, or rounding rules:
    * **Ask Reference:** Prompt cashier for a reference note.
 7. Select **"Save"**.
 
-<figure><img src="../../.gitbook/assets/image (498).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (497).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** **Template Name** and **Account Transaction Type** are required when setting up a calculation type.
 

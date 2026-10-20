@@ -64,7 +64,7 @@ The feature also allows you to define mappings based on user roles, departments,
 3. Update the required general settings or mappings.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_67_for_3423698947.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_65_for_3423698947.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Change Payment Type** <a href="#delete-a-change-payment-type" id="delete-a-change-payment-type"></a>
 

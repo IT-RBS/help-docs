@@ -48,7 +48,7 @@ Note: The Name field is required. If it is left blank, the system displays the m
 3. Update the required details.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_45_for_3422715932.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_43_for_3422715932.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Script** <a href="#delete-a-script" id="delete-a-script"></a>
 

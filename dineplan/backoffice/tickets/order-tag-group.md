@@ -66,7 +66,7 @@ The Order Tag Group feature allows you to manage groups of order tags used for o
 3. Update the required settings, order tags, prefixes, suffixes, or mappings.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_44_for_3423698947.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_42_for_3423698947.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete an Order Tag Group** <a href="#delete-an-order-tag-group" id="delete-an-order-tag-group"></a>
 

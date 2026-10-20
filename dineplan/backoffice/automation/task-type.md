@@ -68,7 +68,7 @@ The feature also supports configuring custom fields for each task type, allowing
 3. Update the task type name or modify the custom field configuration as required.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_69_for_3422715932.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_67_for_3422715932.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Task Type** <a href="#delete-a-task-type" id="delete-a-task-type"></a>
 

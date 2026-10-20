@@ -21,7 +21,7 @@ To schedule a new reservation for a guest:
    * **Remarks / Remark:** Enter any special requests or operational notes.
 5. Select **"Save"**.
 
-<figure><img src="../../.gitbook/assets/image (430).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (427).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** The newly created reservation appears directly in the **Reservation List** upon saving.
 
@@ -49,7 +49,7 @@ To modify booking times, guest counts, or contact information for an existing re
 4. Update the required information (such as **Reservation Date**, **Reservation Time**, **Phone Number**, **Customer Name**, **Email Address**, **PAX**, **Adult PAX**, **Child PAX**, **Deposit**, or **Remarks**).
 5. Select **"Save"**.
 
-<figure><img src="../../.gitbook/assets/image (428).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (427).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. How do I cancel a customer reservation when a guest cancels their visit?
 

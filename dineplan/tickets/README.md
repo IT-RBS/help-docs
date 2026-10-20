@@ -106,7 +106,7 @@ To view tickets based on a specific date range or ticket type:
 
 1. Open the “Tickets” screen from the Dashboard.
 
-<figure><img src="../.gitbook/assets/att_6_for_3348758641.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/att_1_for_3348758641.png" alt=""><figcaption></figcaption></figure>
 
 2. In the “From” and “To” fields, select the required date range.
 

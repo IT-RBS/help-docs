@@ -52,7 +52,7 @@ The Printer Template section is used to manage the templates used for printing d
 3. Update the required template details.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_27_for_3422650369.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_25_for_3422650369.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete Printer Template** <a href="#delete-printer-template" id="delete-printer-template"></a>
 
@@ -75,14 +75,14 @@ The Printer Template section is used to manage the templates used for printing d
 
 ### **Use Case** <a href="#use-case.2" id="use-case.2"></a>
 
-* Create customized printing formats for different types of documents generated from the POS.&#x20;
-* Configure separate templates when different operational areas require different print layouts or content.&#x20;
-* Design a specific template for kitchen printing to display the information required by kitchen staff.&#x20;
-* Create dedicated templates for bills, receipts, or other documents when their printing formats differ.&#x20;
-* Configure "Merge Lines" when related information needs to be combined in the printed output.&#x20;
-* Configure "Second Display" when the template needs to support the required second-display printing setup.&#x20;
-* Modify existing templates when the printed content or format needs to be updated.&#x20;
-* Maintain multiple printer templates and organize them in a preferred order for easier identification and management.&#x20;
+* Create customized printing formats for different types of documents generated from the POS.
+* Configure separate templates when different operational areas require different print layouts or content.
+* Design a specific template for kitchen printing to display the information required by kitchen staff.
+* Create dedicated templates for bills, receipts, or other documents when their printing formats differ.
+* Configure "Merge Lines" when related information needs to be combined in the printed output.
+* Configure "Second Display" when the template needs to support the required second-display printing setup.
+* Modify existing templates when the printed content or format needs to be updated.
+* Maintain multiple printer templates and organize them in a preferred order for easier identification and management.
 
 ### **Notes** <a href="#notes.2" id="notes.2"></a>
 

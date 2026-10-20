@@ -75,7 +75,7 @@ You can add, edit, delete, and sort combo groups.
 3. Modify the required combo group details or products.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_64_for_3421863938.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_62_for_3421863938.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete Combo Group** <a href="#delete-combo-group" id="delete-combo-group"></a>
 
@@ -99,14 +99,14 @@ You can add, edit, delete, and sort combo groups.
 
 ### **Use Case** <a href="#use-case.5" id="use-case.5"></a>
 
-* Create separate product groups within a combo, such as beverages, side dishes, desserts, or main-course items.&#x20;
-* Define how many products a customer can select from a particular group when ordering a combo.&#x20;
-* Set minimum selections when a combo requires customers to choose at least a specific number of items.&#x20;
-* Set maximum selections when the number of items that can be selected from a group needs to be limited.&#x20;
-* Offer customers multiple product choices while keeping the combo selection within the configured limits.&#x20;
-* Organize products that are commonly offered together as part of different combo options.&#x20;
-* Modify the products or selection limits when the available items or combo structure changes.&#x20;
-* Arrange combo groups and their products in a preferred order to make combo configuration and selection easier.&#x20;
+* Create separate product groups within a combo, such as beverages, side dishes, desserts, or main-course items.
+* Define how many products a customer can select from a particular group when ordering a combo.
+* Set minimum selections when a combo requires customers to choose at least a specific number of items.
+* Set maximum selections when the number of items that can be selected from a group needs to be limited.
+* Offer customers multiple product choices while keeping the combo selection within the configured limits.
+* Organize products that are commonly offered together as part of different combo options.
+* Modify the products or selection limits when the available items or combo structure changes.
+* Arrange combo groups and their products in a preferred order to make combo configuration and selection easier.
 
 ### **Notes** <a href="#notes.5" id="notes.5"></a>
 

@@ -46,7 +46,7 @@ The process is performed in two stages:
 
 1. Use "Change Table" to bring the required tables together.
 
-<figure><img src="../../.gitbook/assets/att_1_for_3420782594.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
 2. Select the required tickets and use "Merge" to combine them.
 

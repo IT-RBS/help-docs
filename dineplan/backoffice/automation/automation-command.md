@@ -75,7 +75,7 @@ When adding or editing a command, administrators can configure its general setti
 3. Update the required details or mappings.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_55_for_3422715932.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_53_for_3422715932.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete an Automation Command** <a href="#delete-an-automation-command" id="delete-an-automation-command"></a>
 

@@ -8,7 +8,7 @@ To access the internal communication panel from your main screen:
 2. From the **"Dashboard"**, select **"Front Desk"**.
 3. Select **"Message"**.
 
-<figure><img src="../../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
 
 **Result:** The **Message** screen opens to display your messages and conversation controls.
 
@@ -43,7 +43,7 @@ To respond to a message thread:
 5. Type your response message.
 6. Select **Send**.
 
-<figure><img src="../../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (413).png" alt=""><figcaption></figcaption></figure>
 
 **Result:** Your reply is sent to the selected conversation, and the thread updates automatically.
 
@@ -56,7 +56,7 @@ To locate the text input area:
 3. Type your reply directly into the **"Reply Here"** text field.
 4. Select **Send** to transmit your message.
 
-<figure><img src="../../.gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
 
 ## 6. What happens after I click Send on a message thread?
 
@@ -66,7 +66,7 @@ When you click **Send**:
 2. The system updates the conversation record in real time.
 3. The **Conversation Panel** refreshes to display your newly sent reply in the message history.
 
-<figure><img src="../../.gitbook/assets/image (416).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
 
 ## 7. How do I check active operational details like business type, date, shift number, and user while on the Message screen?
 
@@ -106,6 +106,6 @@ The **Message** screen consists of five primary interface elements:
 
 ## 10. Can I reply to internal messages without leaving the DinePlan application?
 
-Yes.&#x20;
+Yes.
 
 The **Message** screen functions as a centralized communication panel directly inside DinePlan. It enables cashiers, store managers, restaurant owners, and administrators to monitor incoming notifications, review complete message histories, and issue direct replies without exiting or navigating away from the DinePlan software.

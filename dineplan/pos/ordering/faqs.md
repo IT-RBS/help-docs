@@ -10,7 +10,7 @@ To start a new order for an available table:
 4. Verify that the table status color is **White** (Available).
 5. Click the required table button.
 
-<figure><img src="../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
 **Result:** Because the table does not have an active order, the **Ordering screen** opens automatically for creating a new order.
 
@@ -24,7 +24,7 @@ Table status on the POS screen is indicated by three distinct display colors:
 * **Yellow:** The table is occupied (has an active order in progress).
 * **Brown:** The table is waiting for payment (bill print taken / order submitted).
 
-<figure><img src="../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. How do I select a menu category and add menu items to an order?
 
@@ -91,7 +91,7 @@ To attach remarks or preparation instructions to an order or item:
 4. Select **Ok**.
 5. Review the entered information. The note displays at the bottom of the order or under the selected item.
 
-<figure><img src="../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
 
 ## 9. How do I search for and attach an existing registered customer to a transaction?
 
@@ -142,7 +142,7 @@ To link a member profile to a table order:
 3. Select the required member from the list.
 4. Select **Select Members**.
 
-<figure><img src="../../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
 
 **Result:** The selected member is associated with the transaction.
 
@@ -158,7 +158,7 @@ If a member record does not exist:
 6. Review the entered information.
 7. Select **Save**.
 
-<figure><img src="../../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
 
 **Result:** The new member record is created.
 
@@ -196,7 +196,7 @@ To reassign an order item between tickets on the same table:
 3. Select the destination ticket on the same table.
 4. Verify that the item appears under the correct ticket.
 
-<figure><img src="../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
 
 ## 17. How do I mark an item to be served later during the meal using Serve Later?
 
@@ -218,7 +218,7 @@ To process payment for an individual item on a ticket:
 3. Verify the selected item and individual amount on screen.
 4. Continue with the payment process to settle that specific item.
 
-<figure><img src="../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
 
 ## 19. How do I void an item that has already been sent to the kitchen when a customer cancels it?
 
@@ -370,7 +370,7 @@ To split items across separate tickets for one table:
 4. Repeat for additional guests by adding more tickets and moving their respective items.
 5. Verify that each ticket accurately lists the items for each guest before printing bills or processing payment.
 
-Refer to this step - [Move](./#move-items-between-tickets)&#x20;
+Refer to this step - [Move](./#move-items-between-tickets)
 
 ## 35. How do I settle a single item for a guest who wants to leave early without closing the rest of the table's order?
 
@@ -382,7 +382,7 @@ To settle payment for one guest's item while leaving the main table ticket open:
 4. Click **Pay** and proceed through the payment screen to settle that item.
 5. Verify that the remaining items stay active on the table ticket for the remaining guests.
 
-<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
 
 ## 36. How do I open an existing active order versus starting a new order on the Table screen?
 
@@ -463,7 +463,7 @@ To move an active ticket when guests change tables or if an order was opened on 
 3. The floor plan layout opens; click the new destination table.
 4. The active order is automatically moved to the selected destination table.
 
-<figure><img src="../../.gitbook/assets/image (280).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** Executing **Change Table** automatically submits the current order before relocating it to the new table.
 
@@ -490,4 +490,3 @@ When new items are requested after order submission:
 3. The new items are managed as a separate order sequence for that table (`Existing Order` → `Submit Order` → `Add New Item` → `New Order`).
 
 <figure><img src="../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
-

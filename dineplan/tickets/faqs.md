@@ -8,7 +8,7 @@ To open the Tickets screen and view transaction records generated during restaur
 2. From the main **"Dashboard"**, locate and select **"Tickets"**.
 3. The **"Tickets"** screen opens, displaying the centralized list of ticket records.
 
-<figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. How do I filter ticket records by a specific date range?
 
@@ -90,7 +90,7 @@ To review ticket records linked to credit transactions:
 3. Select **"Credit"**.
 4. Select **"Refresh"**.
 
-<figure><img src="../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
 ## 9. How do I filter and view invoice-related tickets?
 
@@ -169,7 +169,7 @@ The **Push** button is context-dependent and will only become active under speci
 * The **Push** option is enabled **only** when **NotSynced** (or non-synchronized) tickets are selected.
 * If you are viewing standard closed, open, or fully synchronized tickets, the **Push** button remains disabled.
 
-<figure><img src="../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
 
 ## 16. How do I filter tickets by PAX (guest count) transactions?
 
@@ -263,7 +263,7 @@ To view the exact operational timestamps for an order:
 2. Find the **"Open-Close"** column.
 3. Review the timestamps displayed, which record both the opening time and closing time of the ticket.
 
-<figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 ## 25. What details are shown in the Department, Terminal, Payment, and User Name columns?
 
@@ -285,7 +285,7 @@ To quickly find a record without changing dropdown options:
 3. Type any matching keyword (such as **I.No**, **T.No**, **Q.No**, **Member**, **Table**, **Customer**, **Reference No.**, **Alternate ID**, **Department**, **Date**, **Terminal**, **Payment**, or **User Name**).
 4. The **Ticket List** updates automatically to display matching records.
 
-<figure><img src="../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
 ## 27. How do I navigate between pages when there are multiple pages of ticket records?
 
@@ -306,7 +306,7 @@ To export transaction data for administrative reporting or record-keeping:
 3. Select **"Excel"** from the top screen actions.
 4. The system exports all ticket information currently displayed in the ticket list into an Excel file.
 
-<figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** The **Excel** function exports only the records currently loaded in the active result list.
 
@@ -360,7 +360,7 @@ To exit the Tickets management interface:
 2. Select **"Close"**.
 3. The Tickets screen closes, returning you to the previous screen or Dashboard.
 
-<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 ## 34. What search criteria fields can I type into the Search bar to find a ticket?
 
@@ -375,7 +375,7 @@ The **Search** bar supports multi-field lookup. You can enter values correspondi
 * **Payment**
 * **User Name**
 
-<figure><img src="../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
 ## 35. Why does my exported Excel file only contain a subset of my restaurant's total tickets?
 
@@ -385,4 +385,3 @@ The **Excel** export tool is strictly tied to the active screen view:
 * **Solution:** To export a complete set of records, ensure you select **"All Tickets"** under **Ticket Type**, set your full date range in **"From"** / **"To"**, select **"Refresh"**, and then select **"Excel"**.
 
 <figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
-

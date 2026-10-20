@@ -40,13 +40,13 @@ Print the bill so the customer can review and confirm the amount before payment.
 
 2. Select "Print Bill".
 
-<figure><img src="../../.gitbook/assets/att_1_for_3420913666.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
 3. The bill is printed for the customer to review.
 4. Allow the customer to verify and confirm the bill.
 5. The table colour changes to Brown after the bill is printed.
 
-<figure><img src="../../.gitbook/assets/att_2_for_3420913666.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
 6. Select the same "Table" after customer confirmation.
 7. Select the required bill to proceed to the Payment page.
@@ -86,11 +86,11 @@ Use this option when the customer wants to pay the complete bill using one payme
 
 1. From the Payment page, select "All".
 
-<figure><img src="../../.gitbook/assets/att_5_for_3420913666.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
 2. Select the required payment method.
 
-<figure><img src="../../.gitbook/assets/att_6_for_3420913666.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>
 
 3. Enter the amount received, if required.
 4. Verify the payment amount and change, if applicable.
@@ -169,15 +169,15 @@ Use this option when a customer wants to pay for a specific item instead of the 
 
 1. From the Order page, select the item to be paid for.
 
-<figure><img src="../../.gitbook/assets/att_14_for_3420913666.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 
 2. Select "Settle".
 
-<figure><img src="../../.gitbook/assets/att_15_for_3420913666.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
 
 3. The Payment page is displayed.
 
-<figure><img src="../../.gitbook/assets/att_16_for_3420913666.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
 4. Allow the customer to review and confirm the bill.
 5. Select "All".
@@ -211,12 +211,12 @@ Use this option when a customer wants to pay for a specific quantity of the same
 
 5. The Payment page is displayed.
 
-<figure><img src="../../.gitbook/assets/att_20_for_3420913666.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
 6. Allow the customer to review and confirm the bill.
 7. Select "All".
 
-<figure><img src="../../.gitbook/assets/att_21_for_3420913666.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_17_for_3420913666.png" alt=""><figcaption></figcaption></figure>
 
 8. Select the required payment mode on the right.
 9. Verify the payment amount.
@@ -348,5 +348,3 @@ Before completing the payment, verify the following:
 * Use "Discount" for an amount-based discount.
 * Always verify the final amount and payment method before completing the transaction.
 * Available payment methods and payment options depend on the restaurant configuration.
-
-&#x20;

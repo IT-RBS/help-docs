@@ -38,7 +38,7 @@ Administrators can configure the required settings and integration details based
 1. Click on "Program Settings" to configure the general behavior and default settings of the POS application.
 2. Enter the required details
 
-<figure><img src="../../.gitbook/assets/att_1_for_3425272189 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3425272189.png" alt=""><figcaption></figcaption></figure>
 
 | **Setting**                   | **Description**                                                         |
 | ----------------------------- | ----------------------------------------------------------------------- |
@@ -247,7 +247,7 @@ Administrators can configure the required settings and integration details based
 
 **Note:** Configure the report sections according to the customer's reporting requirements.
 
-### &#x20;**Configure Integrations**
+### **Configure Integrations**
 
 Program Settings also provides configuration sections for supported third-party integrations, including:
 
@@ -414,7 +414,7 @@ Program Settings also provides configuration sections for supported third-party 
 5. Enter the required Cache Expiry Days and Retry Count.
 6. Enter the Redirect URL and Authentication URL.
 
-<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 7. Click "Save" to save the configuration.
 

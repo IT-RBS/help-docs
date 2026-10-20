@@ -21,7 +21,7 @@ The Sold Out feature allows users to temporarily mark menu items, order tags, or
 
 The Sold Out screen allows users to manage menu items that are temporarily unavailable. It provides options to search existing sold-out items, add new sold-out entries, remove them when they become available, and import or export sold-out records.
 
-<figure><img src="../../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
 
 | **Screen Element**      | **Description**                                                                                   |
 | ----------------------- | ------------------------------------------------------------------------------------------------- |
@@ -52,7 +52,7 @@ Use this option to make all items associated with a specific order tag unavailab
 
 1. Open “Front Desk” → “Sold Out”.
 
-<figure><img src="../../.gitbook/assets/att_3_for_3348856872.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3348856872.png" alt=""><figcaption></figcaption></figure>
 
 2. Select “Add Item Tag”.
 
@@ -81,7 +81,7 @@ Use this option to make all items associated with a specific order tag unavailab
 
 8. The selected item tag is added to the Sold Out list and is unavailable for ordering until it is removed.
 
-<figure><img src="../../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
 
 9. You will get a message popup in the POS when the sold out item is updated.
 
@@ -93,7 +93,7 @@ Use this option when only a specific menu item is unavailable.
 
 1. Open “Front Desk” → “Sold Out”.
 
-<figure><img src="../../.gitbook/assets/att_10_for_3348856872.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3348856872.png" alt=""><figcaption></figcaption></figure>
 
 2. Select “Add New Item”.
 
@@ -121,11 +121,11 @@ Use this option when only a specific menu item is unavailable.
 
 8. The selected menu item is added to the sold-out list and cannot be ordered until it is removed.
 
-<figure><img src="../../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
 
 9. The popup will appear when you update the sold-out item.
 
-<figure><img src="../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
 
 ### **Method 3: Mark a Product Group as Sold Out** <a href="#method-3-mark-a-product-group-as-sold-out" id="method-3-mark-a-product-group-as-sold-out"></a>
 
@@ -133,7 +133,7 @@ Use this option when an entire product group is unavailable.
 
 1. Open “Front Desk” → “Sold Out”.
 
-<figure><img src="../../.gitbook/assets/att_17_for_3348856872.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3348856872.png" alt=""><figcaption></figcaption></figure>
 
 3. Select “Add Group Sold Out Item”.
 
@@ -155,7 +155,7 @@ When the item becomes available again:
 
 1. Open “Front Desk” → “Sold Out”.
 
-<figure><img src="../../.gitbook/assets/att_21_for_3348856872.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3348856872.png" alt=""><figcaption></figcaption></figure>
 
 2. Select the required sold-out entry.
 3. Select “Delete”.

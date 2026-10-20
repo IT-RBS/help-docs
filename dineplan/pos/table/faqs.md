@@ -21,7 +21,7 @@ Table status is displayed using three distinct colors:
 * **Brown (Bill Print Taken):** Indicates that the bill/check has already been printed for the table.
 * **White (Available / Transaction Completed):** Indicates that the table is available for a new seating or that the previous transaction has been completed.
 
-<figure><img src="../../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. How do I search for and link an existing member to a transaction?
 
@@ -49,7 +49,7 @@ If a dining guest is not already registered in the system:
 6. Review all entered information for accuracy.
 7. Select **"Save"**.
 
-<figure><img src="../../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
 
 **Result:** The new member record is created in the system.
 
@@ -83,7 +83,7 @@ To check balance and account information linked to a guest:
 2. Search for and select the specific member or customer record.
 3. Look at the **"Account Details"** section on the screen.
 
-<figure><img src="../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
 
 **Result:** The **Account Details** section displays the account information associated with the selected member or customer, where applicable.
 
@@ -114,7 +114,7 @@ When a customer is not found in the existing records:
 8. Enter the customer's **"Email"** address, where applicable.
 9. Review the entered information and select **"Save"**.
 
-<figure><img src="../../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
 
 ## 10. What is the difference between "Select Customer" and "Create Account" when creating a customer?
 
@@ -144,7 +144,7 @@ If your outlet operates multiple dining areas:
 2. Click or tap the **"Indoor"** button/tab to display indoor tables.
 3. Click or tap the **"Outdoor"** button/tab to display outdoor tables.
 
-<figure><img src="../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** The table arrangement and total number of tables displayed depend on the specific configuration of the outlet.
 

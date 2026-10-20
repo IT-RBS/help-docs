@@ -50,7 +50,7 @@ The Course section is used to configure the priority order in which items are se
 3. Update the required course details.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_4_for_3421863938.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_2_for_3421863938.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete Course** <a href="#delete-course" id="delete-course"></a>
 
@@ -74,14 +74,14 @@ The Course section is used to configure the priority order in which items are se
 
 ### **Use Case** <a href="#use-case" id="use-case"></a>
 
-* Arrange dishes according to the order in which they should be prepared and sent to the kitchen.&#x20;
-* Ensure starters such as soup are sent to the kitchen before main-course items such as fried rice or biriyani.&#x20;
-* Manage different preparation stages when an order contains multiple types of dishes.&#x20;
-* Coordinate kitchen operations by establishing a consistent sequence for preparing different courses.&#x20;
-* Prioritize time-sensitive dishes so they can be prepared at the appropriate stage of the order.&#x20;
-* Maintain a standard course sequence across orders to support consistent kitchen operations.&#x20;
-* Adjust the course priority when the restaurant changes its serving or preparation sequence.&#x20;
-* Organize and maintain multiple courses so kitchen staff can follow the configured preparation order.&#x20;
+* Arrange dishes according to the order in which they should be prepared and sent to the kitchen.
+* Ensure starters such as soup are sent to the kitchen before main-course items such as fried rice or biriyani.
+* Manage different preparation stages when an order contains multiple types of dishes.
+* Coordinate kitchen operations by establishing a consistent sequence for preparing different courses.
+* Prioritize time-sensitive dishes so they can be prepared at the appropriate stage of the order.
+* Maintain a standard course sequence across orders to support consistent kitchen operations.
+* Adjust the course priority when the restaurant changes its serving or preparation sequence.
+* Organize and maintain multiple courses so kitchen staff can follow the configured preparation order.
 
 ### **Notes** <a href="#notes" id="notes"></a>
 

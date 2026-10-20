@@ -82,7 +82,7 @@ The Payment Type setting allows you to manage the different payment methods avai
 3. Update the required general settings, payment processor settings, or mappings.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_55_for_3423698947.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_53_for_3423698947.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Payment Type** <a href="#delete-a-payment-type" id="delete-a-payment-type"></a>
 

@@ -49,7 +49,7 @@ The Printer section is used to manage the printers configured in the system. You
 3. Update the required printer details.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_5_for_3422650369.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_3_for_3422650369.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete Printer** <a href="#delete-printer" id="delete-printer"></a>
 

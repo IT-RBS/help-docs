@@ -65,13 +65,13 @@ The following screen elements are common to all reports in the Item Reports cate
 
 * Prints the currently displayed report.
 
-<figure><img src="../../.gitbook/assets/att_35_for_3350265859 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_35_for_3350265859.png" alt=""><figcaption></figcaption></figure>
 
 ### **Items Sales Report** <a href="#items-sales-report" id="items-sales-report"></a>
 
 The Items Sales Report displays item-wise sales for the selected period, including quantities sold, order counts, pricing, taxes, and sales values. It helps managers monitor the performance of individual menu items and evaluate overall item sales.
 
-<figure><img src="../../.gitbook/assets/att_36_for_3350265859 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_36_for_3350265859.png" alt=""><figcaption></figcaption></figure>
 
 #### **Screen Elements** <a href="#screen-elements.4" id="screen-elements.4"></a>
 
@@ -122,7 +122,7 @@ Use the Items Sales Report to:
 
 The Items Order Sales Report displays menu items sold within each order, along with ticket information, invoice details, quantities, and item prices. It helps review item sales at the order level.
 
-<figure><img src="../../.gitbook/assets/att_39_for_3350265859.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_35_for_3350265859.png" alt=""><figcaption></figcaption></figure>
 
 #### **Report Fields** <a href="#report-fields.11" id="report-fields.11"></a>
 

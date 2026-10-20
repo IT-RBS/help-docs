@@ -67,13 +67,13 @@ Users can create, edit, delete, and sort departments as required.
 3. Update the required information.
 4. Select "Save" to apply the changes.
 
-<figure><img src="../../.gitbook/assets/att_39_for_3423535115.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_36_for_3423535115.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Department** <a href="#delete-a-department" id="delete-a-department"></a>
 
 1. Select the department to be deleted from the Department List.
 
-<figure><img src="../../.gitbook/assets/att_40_for_3423535115.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_37_for_3423535115.png" alt=""><figcaption></figcaption></figure>
 
 2. Select "Delete Department".
 

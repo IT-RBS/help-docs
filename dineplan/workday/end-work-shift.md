@@ -21,7 +21,7 @@ Before closing a Work Shift, ensure that:
 
 1. Open the "Work Shift" screen.
 
-<figure><img src="../.gitbook/assets/att_25_for_3349348540.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/att_17_for_3349348540.png" alt=""><figcaption></figcaption></figure>
 
 2. Click "End Work Shift".
 

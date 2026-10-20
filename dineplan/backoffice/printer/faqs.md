@@ -177,7 +177,7 @@ To configure the customer-facing display screen connected to your POS terminal:
 6. Configure the content structure in the **"Template"** configuration area.
 7. Select **"Save"** to save the second display configuration.
 
-<figure><img src="../../.gitbook/assets/image (546).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (545).png" alt=""><figcaption></figcaption></figure>
 
 **Important Constraint:** Only **one** Second Display system can be added in DinePlan.
 
@@ -260,7 +260,7 @@ To remove a widget from the system:
 
 <figure><img src="../../.gitbook/assets/image (540).png" alt=""><figcaption></figcaption></figure>
 
-## &#x20;20. How do I search for a specific Widget or change the display order of Widgets?
+## 20. How do I search for a specific Widget or change the display order of Widgets?
 
 To manage and locate widgets efficiently in BackOffice:
 
@@ -275,4 +275,3 @@ To manage and locate widgets efficiently in BackOffice:
   4. Save the updated layout sequence.
 
 <figure><img src="../../.gitbook/assets/image (539).png" alt=""><figcaption></figcaption></figure>
-

@@ -57,7 +57,7 @@ When you click **Start Workday**, the system displays a confirmation window cont
 * **Start Time:** The exact date and timestamp when the Workday was activated.
 * **Business Date:** The operational business date assigned to the Workday.
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 After reviewing these details, click **"OK"** to confirm and activate the business day.
 
@@ -90,7 +90,7 @@ When entering your opening cash amount on the **Opening Cash** screen:
 3. Count or verify the cash placed in the drawer against the amount entered in the system.
 4. Click **"Start Work Shift"** to proceed.
 
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 ## 9. What details are shown in the confirmation message after starting a Work Shift?
 
@@ -102,7 +102,7 @@ Upon starting a Work Shift, the system displays the **Work Shift Started** confi
 * **Business Date:** Current business date associated with the shift.
 * **Shift Number:** System-assigned identification number for the shift.
 
-<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 Click **"OK"** to close the message and proceed to the **POS** module.
 
@@ -215,7 +215,7 @@ To place a terminal into Training Mode for practice or employee onboarding:
 4. The system enables Training Mode and automatically redirects you to the login page.
 5. Log back in to DinePlan.
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 **Result:** The terminal operates in Training Mode. Practice transactions will not affect live sales figures or synchronize with the server.
 
@@ -259,7 +259,7 @@ When administrators update menus, prices, or promotional offers in Dine Connect:
 1. Open the **"Workday"** module.
 2. Click **"Pull"**.
 
-<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 **Result:** The POS terminal retrieves the latest master configurations and operational updates from **Dine Connect**, ensuring menu items and prices are up to date.
 
@@ -270,7 +270,7 @@ To update on-screen status info without altering applied filters or date paramet
 1. Open the **"Workday"** screen.
 2. Click **"Refresh"**.
 
-<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 **Result:** The screen reloads and updates all status records and shift indicators.
 
@@ -327,7 +327,7 @@ To view closed shift records for specific dates:
 3. Select the target end date in **"Business Date (To)"**.
 4. Review the records displayed in the **Work Shift History** table.
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** Click **"Reset"** at any time to clear custom date filters and return to default work shift records.
 
@@ -395,4 +395,3 @@ If transactions completed on a terminal do not appear in sales or financial repo
 Refer to this link - [Disable Training](screen-commands.md#disable-training)
 
 <figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
-

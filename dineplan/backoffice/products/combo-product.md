@@ -89,7 +89,7 @@ You can add, edit, delete, and sort combo products.
 3. Update the required Name, Product, or Combo Groups.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_53_for_3421863938.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_51_for_3421863938.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Combo Product** <a href="#delete-a-combo-product" id="delete-a-combo-product"></a>
 
@@ -111,14 +111,14 @@ You can add, edit, delete, and sort combo products.
 
 ### **Use Case** <a href="#use-case.4" id="use-case.4"></a>
 
-* Configure products that are offered together as a single combination or package.&#x20;
-* Link a combo product with an existing product to maintain the required product association.&#x20;
-* Organize related products into "Combo Groups" for easier management of combo selections.&#x20;
-* Add multiple combo groups to a single combo product when different groups are required for the combination.&#x20;
-* Update the combo configuration when the product, name, or associated combo groups change.&#x20;
-* Remove combo products that are no longer offered or required in the POS.&#x20;
-* Arrange combo products in a preferred order to make them easier to manage in the Back Office.&#x20;
-* Maintain and manage combo offerings centrally within the Products section of the POS Back Office.&#x20;
+* Configure products that are offered together as a single combination or package.
+* Link a combo product with an existing product to maintain the required product association.
+* Organize related products into "Combo Groups" for easier management of combo selections.
+* Add multiple combo groups to a single combo product when different groups are required for the combination.
+* Update the combo configuration when the product, name, or associated combo groups change.
+* Remove combo products that are no longer offered or required in the POS.
+* Arrange combo products in a preferred order to make them easier to manage in the Back Office.
+* Maintain and manage combo offerings centrally within the Products section of the POS Back Office.
 
 ### **Notes** <a href="#notes.4" id="notes.4"></a>
 
@@ -130,4 +130,3 @@ You can add, edit, delete, and sort combo products.
 * Use "Edit Combo Product" to modify an existing combo product.
 * Use "Delete Combo Product" to remove a combo product.
 * Use "Sort Combo Products" to change the display order of combo products.
-

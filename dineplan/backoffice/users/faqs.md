@@ -151,7 +151,7 @@ To enable or disable administrator access for a specific user role:
 3. Configure the **"Admin"** option to enable or disable administrator access for the role.
 4. Select **"Save"**.
 
-<figure><img src="../../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
 
 ## 15. How do I assign a Department to a User Role?
 

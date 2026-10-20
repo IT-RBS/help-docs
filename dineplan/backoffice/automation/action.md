@@ -60,7 +60,7 @@ When adding an action, users can specify the Action Name, select an Action Type,
 3. Update the Action Name, Action Type, or applicable parameters as required.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_14_for_3422715932.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_12_for_3422715932.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete Action** <a href="#delete-action" id="delete-action"></a>
 

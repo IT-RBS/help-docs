@@ -6,7 +6,7 @@ The Devices section is used to configure devices that can be connected to DinePl
 
 The section also allows users to create, edit, delete, and sort configured devices.
 
-<figure><img src="../../.gitbook/assets/image-20261005-105208 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-20261005-105208.png" alt=""><figcaption></figcaption></figure>
 
 ### **Screen Elements** <a href="#screen-elements.7" id="screen-elements.7"></a>
 
@@ -59,7 +59,7 @@ The section also allows users to create, edit, delete, and sort configured devic
 3. Update the required configuration.
 4. Select "Save" to apply the changes.
 
-<figure><img src="../../.gitbook/assets/att_65_for_3423535115.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_62_for_3423535115.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Device** <a href="#delete-a-device" id="delete-a-device"></a>
 

@@ -50,7 +50,7 @@ The Reason section is used to create and manage reasons that can be selected dur
 3. Update the required reason details.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_13_for_3421863938.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_11_for_3421863938.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete Reason** <a href="#delete-reason" id="delete-reason"></a>
 
@@ -74,14 +74,14 @@ The Reason section is used to create and manage reasons that can be selected dur
 
 ### **Use Case** <a href="#use-case.1" id="use-case.1"></a>
 
-* Record the reason when an item is provided to a customer free of charge.&#x20;
-* Provide products as complimentary items or goodwill gestures for customers.&#x20;
-* Document the reason for offering an item free of charge as part of customer service recovery.&#x20;
-* Manage products given at no charge as part of promotional offers or special campaigns.&#x20;
-* Maintain a clear reason when products are provided as Gift or Comp with management approval.&#x20;
-* Track why specific items were provided without charging the customer.&#x20;
-* Provide staff with predefined reasons to select during the ordering process instead of entering explanations manually.&#x20;
-* Organize multiple Gift or Comp reasons so staff can quickly identify and select the appropriate option during order processing.&#x20;
+* Record the reason when an item is provided to a customer free of charge.
+* Provide products as complimentary items or goodwill gestures for customers.
+* Document the reason for offering an item free of charge as part of customer service recovery.
+* Manage products given at no charge as part of promotional offers or special campaigns.
+* Maintain a clear reason when products are provided as Gift or Comp with management approval.
+* Track why specific items were provided without charging the customer.
+* Provide staff with predefined reasons to select during the ordering process instead of entering explanations manually.
+* Organize multiple Gift or Comp reasons so staff can quickly identify and select the appropriate option during order processing.
 
 ### **Notes** <a href="#notes.1" id="notes.1"></a>
 

@@ -44,7 +44,7 @@ Follow these steps to reply to a message:
 1. Open the “Front Desk” module.
 2. Select “Message”.
 
-<figure><img src="../../.gitbook/assets/att_3_for_3348824339.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3348824339.png" alt=""><figcaption></figcaption></figure>
 
 3. From the “Messages” list, select the required conversation.
 4. Review the existing conversation in the Conversation Panel.

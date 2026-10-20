@@ -67,7 +67,7 @@ To create custom data fields (such as phone numbers, birthdates, or notes) for a
    * **Values:** Specify available selection options, if applicable.
 5. Select **"Save"**.
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 ## 6. How do I make a custom field required or hide it from standard screens?
 
@@ -396,4 +396,3 @@ To reorganize the order of available Entity Screens:
 4. Select **"OK"** to save the new display order.
 
 <figure><img src="../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
-

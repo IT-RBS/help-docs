@@ -106,7 +106,7 @@ If an wrong tender amount is entered or selected while configuring a split payme
 3. Enter the correct amount using the **Number Pad**.
 4. Continue with the payment process.
 
-<figure><img src="../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 
 ## 8. How do I divide a bill equally among multiple customers using the 1/n option?
 
@@ -295,7 +295,7 @@ The two discount buttons handle different discount calculation types:
 
 Selecting **"Cancel PAYMENTS"** cancels the active payment process currently in progress on the Payment page.
 
-<figure><img src="../../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
 ## 27. How do I know if a bill has been settled and the payment recorded successfully?
 
@@ -325,4 +325,4 @@ If an incorrect tender amount is entered during a split payment:
 
 The payment methods (such as Cash, Nets, Visa, Master) and payment options available on the Payment page depend directly on each restaurant's specific DinePlan system configuration.
 
-<figure><img src="../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>

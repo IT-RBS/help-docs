@@ -62,7 +62,7 @@ Use Edit Menu to modify an existing menu.
 3. Update the required menu details or categories.
 4. Select “Save” to apply the changes.
 
-<figure><img src="../../.gitbook/assets/att_88_for_3421863938.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_86_for_3421863938.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete Menu** <a href="#delete-menu" id="delete-menu"></a>
 

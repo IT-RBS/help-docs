@@ -4,7 +4,7 @@
 
 Local Settings is used to configure how DinePlan operates and how information is displayed to users. It includes terminal selection, application and database connection settings, display preferences, devices, DineFly, DineMenu, DineQueue, and Ticket Queue configurations.
 
-<figure><img src="../../.gitbook/assets/image-20261005-105410 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-20261005-105410.png" alt=""><figcaption></figcaption></figure>
 
 In general, True means the option is enabled or visible, while False means the option is disabled or hidden.
 
@@ -428,5 +428,3 @@ Use Ticket Queue when configuring the web-based customer queue display and contr
 * The View Mode determines how much ticket information is displayed to customers.
 * Use "Reset Ticket Queue" carefully, as it is intended to reset the current queue display.
 * Ticket Queue is used for the customer display URL/web-based queue system.
-
-&#x20;

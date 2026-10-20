@@ -9,7 +9,7 @@ The Reserve feature allows users to create and manage customer table reservation
 1. Log in to “DinePlan”.
 2. From the “Dashboard”, select “Front Desk”.
 
-<figure><img src="../../.gitbook/assets/att_0_for_3349348353.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_0_for_3348856872.png" alt=""><figcaption></figcaption></figure>
 
 3. Select “Reserve”.
 
@@ -63,7 +63,7 @@ Use this option to create a new customer reservation.
 
 1. Open “Front Desk” → “Reserve”.
 
-<figure><img src="../../.gitbook/assets/att_3_for_3349348353.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3349348353.png" alt=""><figcaption></figcaption></figure>
 
 2. Select “Add”.
 
@@ -98,7 +98,7 @@ Use this option to update an existing reservation.
 
 1. Open “Front Desk” → “Reserve”.
 
-<figure><img src="../../.gitbook/assets/att_8_for_3349348353.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3349348353.png" alt=""><figcaption></figcaption></figure>
 
 2. Select the required reservation.
 
@@ -124,11 +124,11 @@ Use this option to assign a reservation to an available table.
 
 1. Open “Front Desk” → “Reserve”.
 
-<figure><img src="../../.gitbook/assets/att_13_for_3349348353.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3349348353.png" alt=""><figcaption></figcaption></figure>
 
 2. Select the required reservation.
 
-<figure><img src="../../.gitbook/assets/att_14_for_3349348353.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_9_for_3349348353.png" alt=""><figcaption></figcaption></figure>
 
 3. Select “Assign”.
 
@@ -144,11 +144,11 @@ Use this option to cancel an existing reservation.
 
 1. Open “Front Desk” → “Reserve”.
 
-<figure><img src="../../.gitbook/assets/att_16_for_3349348353.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3349348353.png" alt=""><figcaption></figcaption></figure>
 
 2. Select the required reservation.
 
-<figure><img src="../../.gitbook/assets/att_17_for_3349348353.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_9_for_3349348353.png" alt=""><figcaption></figcaption></figure>
 
 3. Select “Cancel”.
 
@@ -163,7 +163,7 @@ Use this option to locate reservations using filters.
 
 1. Open “Front Desk” → “Reserve”.
 
-<figure><img src="../../.gitbook/assets/att_19_for_3349348353.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3349348353.png" alt=""><figcaption></figcaption></figure>
 
 2. Select the required “From” and “To” dates.
 
@@ -185,11 +185,11 @@ Use this option to export reservation records.
 
 1. Open “Front Desk” → “Reserve”.
 
-<figure><img src="../../.gitbook/assets/att_23_for_3349348353.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_1_for_3349348353.png" alt=""><figcaption></figcaption></figure>
 
 2. Apply the required date range and status filters.
 
-<figure><img src="../../.gitbook/assets/att_24_for_3349348353.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_20_for_3349348353.png" alt=""><figcaption></figcaption></figure>
 
 3. Select “Export”.
 

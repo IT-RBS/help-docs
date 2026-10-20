@@ -74,7 +74,7 @@ The Entity Type feature allows administrators to manage different types of entit
 3. Update the required general settings or custom fields.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_6_for_3422650690.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_4_for_3422650690.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete an Entity Type** <a href="#delete-an-entity-type" id="delete-an-entity-type"></a>
 

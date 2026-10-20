@@ -43,7 +43,7 @@ The table colour indicates its current status:
 * **Yellow** – The table is occupied.
 * **Brown** – The table is waiting for payment.
 
-<figure><img src="../../.gitbook/assets/att_4_for_3392831498.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_2_for_3392831498.png" alt=""><figcaption></figcaption></figure>
 
 ## **Select the Menu Category** <a href="#select-the-menu-category" id="select-the-menu-category"></a>
 
@@ -171,7 +171,7 @@ If the required customer does not exist:
 
 1. Open “Customers”.
 
-<figure><img src="../../.gitbook/assets/att_23_for_3392831498.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_20_for_3392831498.png" alt=""><figcaption></figcaption></figure>
 
 2. Select “New Customer”.
 
@@ -240,7 +240,7 @@ If the required member does not exist:
 5. Enter the member's "Name".
 6. Enter the "Address", where applicable.
 
-<figure><img src="../../.gitbook/assets/att_33_for_3392831498.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
 
 7. Review the entered information.
 8. Select "Save".

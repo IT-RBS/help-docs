@@ -52,7 +52,7 @@ The Account Transaction Type feature in the Back Office allows you to manage the
 3. Update the account transaction type details as required.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_29_for_3422617606.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_27_for_3422617606.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete Account Transaction Type** <a href="#delete-account-transaction-type" id="delete-account-transaction-type"></a>
 

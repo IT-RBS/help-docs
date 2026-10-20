@@ -73,7 +73,7 @@ The configuration options available on the screen may differ based on the select
 3. Modify the required widget details.
 4. Select “Save" to apply the changes.
 
-<figure><img src="../../.gitbook/assets/att_45_for_3422650369.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_42_for_3422650369.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete a Widget** <a href="#delete-a-widget" id="delete-a-widget"></a>
 

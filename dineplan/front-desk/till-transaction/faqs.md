@@ -49,7 +49,7 @@ To remove an unneeded or invalid till transaction entry:
 3. Select **"Delete"**.
 4. When prompted by the system, confirm the deletion action.
 
-<figure><img src="../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
 
 **Result:** The selected till transaction is permanently removed from the **Till Transaction List**.
 
@@ -84,7 +84,7 @@ When configuring a new till transaction:
 3. Enter the exact opening cash amount for the till into the **"Total"** text box.
 4. Select **"Open Till"** and click **"Save"**.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-10-14 171025 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-10-14 171025.png" alt=""><figcaption></figcaption></figure>
 
 ## 8. How do I attach custom notes or comments to a till transaction entry?
 
@@ -132,7 +132,7 @@ Operational system information is displayed continuously along the bottom of the
    * **Logged-in User**
    * **Navigation Controls**
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-10-14 170230 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-10-14 170230.png" alt=""><figcaption></figcaption></figure>
 
 ## 12. How do store managers and administrators use Till Transactions for daily cash auditing?
 
@@ -142,7 +142,7 @@ The **Till Transactions** module supports end-of-shift reconciliation and financ
 2. **Review Ledger:** Administrators review the **Till Transaction List** to verify account names, creation dates, and recorded totals.
 3. **Print Audit Copy:** Managers select individual records and click **"Print Summary"** to generate physical paper slips for physical register counting.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-10-14 170230 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-10-14 170230.png" alt=""><figcaption></figcaption></figure>
 
 ## 13. What happens immediately after I click "Save" on the Add Details screen?
 

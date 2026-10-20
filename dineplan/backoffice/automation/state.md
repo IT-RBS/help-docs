@@ -65,7 +65,7 @@ Each state can also be configured with options such as Group Code, State Type, C
 3. Update the state details as required.
 4. Select "Save" to save the changes.
 
-<figure><img src="../../.gitbook/assets/att_5_for_3422715932.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/att_3_for_3422715932.png" alt=""><figcaption></figcaption></figure>
 
 #### **Delete State** <a href="#delete-state" id="delete-state"></a>
 

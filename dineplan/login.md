@@ -44,7 +44,7 @@ The Login screen provides the required options for accessing DinePlan and managi
 3. Place your registered finger on the biometric scanner.
 4. Wait for the fingerprint to be verified.
 
-<figure><img src=".gitbook/assets/att_11_for_3348824084.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/att_2_for_3348824084.png" alt=""><figcaption></figcaption></figure>
 
 5. Once the fingerprint is successfully verified, you are automatically logged in to the application.
 
@@ -52,7 +52,7 @@ The Login screen provides the required options for accessing DinePlan and managi
 
 1. Select “Attendance”.
 
-<figure><img src=".gitbook/assets/att_12_for_3348824084.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/att_3_for_3348824084.png" alt=""><figcaption></figcaption></figure>
 
 2. Log in using one of the following methods:
    1. Biometric Finger Scan
