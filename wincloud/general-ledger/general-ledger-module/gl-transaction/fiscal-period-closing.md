@@ -27,6 +27,6 @@ Step 3: Select the month that need to be closed.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-08 11-58-03.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 10-03-40 (3).png>)
+Step 4: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 10-03-40.png>)
 
 * The selected month(s) are successfully closed.

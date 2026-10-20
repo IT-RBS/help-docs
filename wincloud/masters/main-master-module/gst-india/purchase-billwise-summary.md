@@ -21,5 +21,5 @@ Step 3: After selecting the date range, click on the **Display** button.
 
 Step 4: Export and Print Options.
 
-1. Click on the **Excel** button to download the report in Excel format.![](<../../../.gitbook/assets/image (1337).png>)
-2. Click on the **Print** button to generate the report in PDF format or open it in print view for printing.![](<../../../.gitbook/assets/image (1338).png>)
+1. Click on the **Excel** button to download the report in Excel format.![](<../../../.gitbook/assets/image (1336).png>)
+2. Click on the **Print** button to generate the report in PDF format or open it in print view for printing.![](<../../../.gitbook/assets/image (1333).png>)

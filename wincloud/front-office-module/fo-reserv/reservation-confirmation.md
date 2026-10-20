@@ -2,7 +2,7 @@
 
 1. Go to the **Reservation** main menu and click **Reservation Confirmation.**
 
-<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 2. Define the required period by selecting the dates from the calendar icons in the _From_ and _To_ fields
 

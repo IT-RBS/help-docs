@@ -13,4 +13,4 @@ To link features to specific rooms within the **Room Master**, follow these step
 
 Once linked, these features will automatically be displayed in the **Room Feature** section at the footer of the **Room Search Screen** when you select that room during the reservation process.
 
-<figure><img src="../../../.gitbook/assets/image (1110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1109).png" alt=""><figcaption></figcaption></figure>

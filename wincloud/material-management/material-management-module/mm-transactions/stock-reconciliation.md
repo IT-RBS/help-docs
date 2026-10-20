@@ -2,7 +2,7 @@
 
 **Stock Reconciliation** is the process of comparing the stock quantity recorded in the system with the actual physical stock available in the store or warehouse.
 
-&#x20;If any differences are identified between the system stock and the physical stock, the discrepancies are reviewed and adjusted to ensure that the inventory records accurately reflect the actual stock on hand.
+If any differences are identified between the system stock and the physical stock, the discrepancies are reviewed and adjusted to ensure that the inventory records accurately reflect the actual stock on hand.
 
 ## Steps to Perform Stock Reconciliation
 
@@ -36,6 +36,6 @@ Step 4: Enter the actual stock quantity in the **Actual Stock** field.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 15-40-39.png" alt=""><figcaption></figcaption></figure>
 
-Step 5: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 14-40-19 (1).png>)
+Step 5: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 14-40-19.png>)
 
 * The stock reconciliation transaction will be recorded, and the inventory records will be updated accordingly.

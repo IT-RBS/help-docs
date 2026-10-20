@@ -14,7 +14,7 @@ Step 2: After selecting **KOT Details**, the system will open the report page.
 * By default, the system displays the report based on a **predefined day/date range**.
 * This view shows all KOT entries recorded during the selected period.
 
-<figure><img src="../../../.gitbook/assets/image (1330).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1329).png" alt=""><figcaption></figcaption></figure>
 
 Step 3: Select the required date range if needed.
 

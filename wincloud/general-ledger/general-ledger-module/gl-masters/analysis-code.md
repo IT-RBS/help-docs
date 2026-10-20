@@ -13,7 +13,7 @@ Step 1: Navigate to the **General Ledger** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 15-23-41.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-04-39 (1).png>)
+Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-04-39.png>)
 
 * The system will display the list of analysis codes.
 
@@ -21,7 +21,7 @@ Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot From 
 
 Step 3: Click the **Add** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-32-05.png>)available on the screen.
 
-Provide the required information:&#x20;
+Provide the required information:
 
 1. **Code -** Enter a unique code that will identify the analysis category.
 2. **Description -** Enter a meaningful description that clearly defines the purpose of the analysis code.
@@ -30,6 +30,6 @@ Provide the required information:&#x20;
 
 Step 4: Verify that the code and description are correct.
 
-1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 14-29-42 (4).png>)
+1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 14-29-42.png>)
 
 * The Analysis Code will be created and made available for use within the system.

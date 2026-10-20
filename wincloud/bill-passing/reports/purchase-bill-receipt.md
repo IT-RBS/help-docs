@@ -24,6 +24,6 @@ Step 3: Click the **Display** button.
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2026-06-04 13-08-25.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: Once the report is displayed, click the **Excel** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 12-46-35 (1).png>)
+Step 4: Once the report is displayed, click the **Excel** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 12-46-35.png>)
 
 * The system will download the report in excel format.

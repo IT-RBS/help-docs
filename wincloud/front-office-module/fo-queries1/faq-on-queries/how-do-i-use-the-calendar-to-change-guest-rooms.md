@@ -8,4 +8,4 @@ To use the Calendar (also referred to as the Room Chart) to change guest rooms, 
 
 This method provides a visual way to manage room assignments. Alternatively, you can use the Search Bookings option within the calendar to search for specific rooms or guests to perform operations like amending in-house information. If you need to perform more detailed operations on an occupied room, clicking the guest's block on the calendar will open a pop-up menu for amending reservations or viewing guest profiles.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-11 14-31-26 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-11 14-31-26.png" alt=""><figcaption></figcaption></figure>

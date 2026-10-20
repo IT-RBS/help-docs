@@ -13,7 +13,7 @@ Step 1: Navigate to the **General Ledger** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 15-44-39.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-04-39 (2).png>)
+Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-04-39.png>)
 
 1. Select the required user from the list.
 
@@ -28,6 +28,6 @@ Step 3: The system will display the available voucher types and corresponding ac
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 15-46-50.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: After assigning the required privileges, click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 14-29-42 (5).png>)
+Step 4: After assigning the required privileges, click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 14-29-42.png>)
 
 * The system will save the privilege settings for the selected user.

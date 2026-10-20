@@ -1,4 +1,4 @@
-# CC  Consumption Summary
+# CC Consumption Summary
 
 The **Cost Center Consumption Summary** report provides a consolidated view of material or item consumption by cost center during a specified period. It summarises the total quantity consumed and, where applicable, the corresponding consumption value based on issue, usage, or inventory transaction records.
 
@@ -16,11 +16,11 @@ Step 2: After opening the report page, apply the required filters to generate th
 
 * The report supports multiple filters, allowing users to customise and refine the displayed information according to their requirements.
 
-Step 3: Use the **Funnel Filter**![](<../../../.gitbook/assets/Screenshot from 2026-06-03 09-52-22 (2).png>)
+Step 3: Use the **Funnel Filter**![](<../../../.gitbook/assets/Screenshot from 2026-06-03 09-52-22.png>)
 
 * The **Funnel Filter** helps users narrow down the report results by applying specific search criteria.
 
-1. &#x20;Use the Group By Option
+1. Use the Group By Option
 
 * The **Group By** drop-down allows users to organise report data into meaningful categories for better analysis and reporting.
 

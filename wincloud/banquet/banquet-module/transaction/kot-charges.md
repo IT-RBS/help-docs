@@ -53,7 +53,7 @@ Step 7: The reserved items associated with the selected reservation will be disp
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-05-25 17-06-05.png" alt=""><figcaption></figcaption></figure>
 
-Step 8: After selecting the required items, click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 17-31-30 (2).png>)
+Step 8: After selecting the required items, click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 17-31-30.png>)
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-05-25 17-01-03.png" alt=""><figcaption></figcaption></figure>
 

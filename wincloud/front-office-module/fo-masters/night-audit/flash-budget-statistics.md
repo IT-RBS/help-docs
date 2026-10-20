@@ -16,5 +16,4 @@ Steps to View a Flash Budget statistics.
 
 5.Once created click on save button.
 
-<figure><img src="../../../.gitbook/assets/3 (206).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../../.gitbook/assets/7 (77).png" alt=""><figcaption></figcaption></figure>

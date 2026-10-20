@@ -12,22 +12,22 @@ Expected arrival list is quite similar to expected arrival report, but in here i
 
 ![](<../../.gitbook/assets/0 (92).png>)
 
-2.To change the date, click on ![](<../../.gitbook/assets/1 (226).png>) icon and select the required date
+2.To change the date, click on ![](<../../.gitbook/assets/1 (31).png>) icon and select the required date
 
 3.Select the required date frequency and the time which can be selected from the drop down
 
-![](<../../.gitbook/assets/2 (228).png>)
+![](<../../.gitbook/assets/2 (213).png>)
 
 4.Click on ![](<../../.gitbook/assets/3 (88).png>) icon to filter and search for any reservation
 
 ![](<../../.gitbook/assets/4 (10).png>)
 
-5.To see more details of the reservation, click ![](<../../.gitbook/assets/5 (114).png>)
+5.To see more details of the reservation, click ![](<../../.gitbook/assets/5 (37).png>)
 
-![](<../../.gitbook/assets/6 (32).png>)
+![](<../../.gitbook/assets/6 (17).png>)
 
 6.Select required fields from the list and click ![](<../../.gitbook/assets/7 (32).png>) which adds columns on the report with details if the details were added during the reservation.
 
-7.Click ![](<../../.gitbook/assets/8 (14).png>) to view the report once filters are applied
+7.Click ![](<../../.gitbook/assets/8 (6).png>) to view the report once filters are applied
 
-8.This report can be either converted to excel by clicking ![](<../../.gitbook/assets/9 (9).png>) or printed by clicking ![](<../../.gitbook/assets/10 (8).png>)
+8.This report can be either converted to excel by clicking ![](<../../.gitbook/assets/9 (9).png>) or printed by clicking ![](<../../.gitbook/assets/5 (5).png>)

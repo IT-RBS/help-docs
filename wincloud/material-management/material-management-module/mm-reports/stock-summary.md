@@ -12,13 +12,13 @@ Step 1: Navigate to the **Reports** menu in the **Inventory** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-02 12-07-10.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Funnel Filter**![](<../../../.gitbook/assets/Screenshot from 2026-06-02 10-43-11 (2).png>)icon to access the available filtering options.
+Step 2: Click the **Funnel Filter**![](<../../../.gitbook/assets/Screenshot from 2026-06-02 10-43-11.png>)icon to access the available filtering options.
 
 * You can filter the report for a specific Product, Product Group and other available criteria.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-02 12-08-53.png" alt=""><figcaption></figcaption></figure>
 
-Step 3: Select the Required Filter **Options.**![](<../../../.gitbook/assets/Screenshot from 2026-06-02 10-43-33 (1).png>)
+Step 3: Select the Required Filter **Options.**![](<../../../.gitbook/assets/Screenshot from 2026-06-02 10-43-33.png>)
 
 1. Choose the required filter criteria based on your reporting needs.
 

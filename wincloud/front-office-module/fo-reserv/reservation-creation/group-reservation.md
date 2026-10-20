@@ -6,9 +6,9 @@ description: Steps to create a Group Reservation
 
 ### Creating a new Group reservation
 
-* Goto Front office >> Reservation >> Group Reservation >> New&#x20;
+* Goto Front office >> Reservation >> Group Reservation >> New
 
-To create **Group Reservations**, a **Group Master** record must first be created in the system. The Group Master serves as the primary record that consolidates and manages all related reservations under a single group. Once the Group Master is created, it must be linked with the relevant individual reservations. Based on these linked records, the system will allow the creation of **Group Bookings**, enabling centralized management of reservations, billing, and reporting for the entire group.&#x20;
+To create **Group Reservations**, a **Group Master** record must first be created in the system. The Group Master serves as the primary record that consolidates and manages all related reservations under a single group. Once the Group Master is created, it must be linked with the relevant individual reservations. Based on these linked records, the system will allow the creation of **Group Bookings**, enabling centralized management of reservations, billing, and reporting for the entire group.
 
 * Click on the Create New Reservation icon as shown below.
 
@@ -34,7 +34,7 @@ After saving, the system will automatically display a **Quick Reservations** pop
   * Enter the number of splits to be created in the field.
   * Click create.
 
-![](<../../../.gitbook/assets/image (728).png>)
+![](<../../../.gitbook/assets/image (427).png>)
 
 * Group Reservation Created Successfully
 

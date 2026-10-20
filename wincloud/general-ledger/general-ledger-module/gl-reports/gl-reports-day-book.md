@@ -47,5 +47,5 @@ Step 6: After selecting all required filters, click the **Display** button.
 
 Step 7: After generating the report :
 
-* Click the **Print** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-37-58 (2).png>) to generate the report in a printable document format.
-* Click the **Excel** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-37-08 (2).png>) to export the report to Microsoft Excel format for further analysis and reporting.
+* Click the **Print** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-37-58.png>) to generate the report in a printable document format.
+* Click the **Excel** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-37-08.png>) to export the report to Microsoft Excel format for further analysis and reporting.

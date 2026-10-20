@@ -37,7 +37,7 @@ Step 3: Once the Purchase Order is selected, the available PO items will be disp
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 12-35-52.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 10-26-56 (3).png>)
+Step 4: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 10-26-56.png>)
 
 * The Material Receipt Note (MRN) will be created and saved successfully in the system.
 

@@ -12,7 +12,7 @@ Step 1: Go to the **Housekeeping** module from the main menu.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 17-25-52.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click on the **New** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 16-47-46 (1).png>)
+Step 2: Click on the **New** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 16-47-46.png>)
 
 1. Enter the required details in the respective fields.
 
@@ -26,4 +26,4 @@ Step 3: After entering all required details, click on the **Save** button.
 
 * The Store Transaction Type will be created successfully and added to the master list.
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 16-48-58 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 16-48-58.png" alt=""><figcaption></figcaption></figure>

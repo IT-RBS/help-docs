@@ -34,4 +34,4 @@ Step 5: Once all required information has been entered and the revenue group has
 
 * The system will save the Plan Item successfully.
 
-<figure><img src="../../../.gitbook/assets/m26.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/d1.2.png" alt=""><figcaption></figcaption></figure>

@@ -25,7 +25,7 @@ Make sure the entered details are accurate before proceeding.
 
 <figure><img src="../../../.gitbook/assets/m15.1.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: Click on the **Save** button![](<../../../.gitbook/assets/Screenshot From 2026-06-10 17-31-30 (5).png>)to confirm and record the advance payment.
+Step 4: Click on the **Save** button![](<../../../.gitbook/assets/Screenshot From 2026-06-10 17-31-30.png>)to confirm and record the advance payment.
 
 * The system will store the advance against the selected reservation.
 * A confirmation message may appear indicating successful saving of the transaction.

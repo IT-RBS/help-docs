@@ -4,7 +4,7 @@
 
 ## Steps to Perform Transfer Out
 
-Step 1: Navigate to **Transactions** in the **Inventory** module.&#x20;
+Step 1: Navigate to **Transactions** in the **Inventory** module.
 
 1. Select **Transfer Out**.
 
@@ -32,6 +32,6 @@ Step 5: Confirm that the destination **Transfer Store** has been selected correc
 
 <figure><img src="../../../.gitbook/assets/b8.png" alt=""><figcaption></figcaption></figure>
 
-Step 6: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 14-40-19 (4).png>)
+Step 6: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 14-40-19.png>)
 
 * The Transfer Out transaction will be successfully recorded, and the stock quantity will be reduced from the source store.

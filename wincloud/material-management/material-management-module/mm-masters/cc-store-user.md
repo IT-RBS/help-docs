@@ -12,7 +12,7 @@ Step 1: Navigate to **Master** menu in the Inventory module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-03 16-31-51.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 15-56-32 (1).png>)
+Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 15-56-32.png>)
 
 Step 3: In the **CC Store User** screen, select the **Basis, User, Department** and **CC Store.**
 
@@ -21,6 +21,6 @@ Step 3: In the **CC Store User** screen, select the **Basis, User, Department** 
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-03 16-33-01.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: After selecting the required details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 15-04-25 (4).png>)
+Step 4: After selecting the required details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 15-04-25.png>)
 
 * The user will be successfully assigned to the selected CC Store.

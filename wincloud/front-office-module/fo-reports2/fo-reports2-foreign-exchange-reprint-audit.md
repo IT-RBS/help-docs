@@ -22,7 +22,7 @@ You can filter based on **Bill Type**.
 
 **Users** is to filter User wise or for selecting all Users.
 
-![](<../../.gitbook/assets/2 (233).png>)
+![](<../../.gitbook/assets/1 (261).png>)
 
 You can also sort the report based on the given option of **Sort On**.
 

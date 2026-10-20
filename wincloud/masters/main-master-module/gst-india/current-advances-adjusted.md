@@ -21,5 +21,5 @@ Step 3: Click on the **Display** button.
 
 Step 4: Export and Print Options.
 
-1. Click on the **Excel** button to download the report in Excel format.![](<../../../.gitbook/assets/Screenshot From 2026-05-21 15-55-05 (1).png>)
+1. Click on the **Excel** button to download the report in Excel format.![](<../../../.gitbook/assets/Screenshot From 2026-05-21 15-55-05.png>)
 2. Click on the **Print** button to generate the report in PDF format or open it in print view for printing.![](<../../../.gitbook/assets/image (1333).png>)

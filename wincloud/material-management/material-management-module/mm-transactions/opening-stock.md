@@ -32,7 +32,7 @@ Step 4: After the file is imported successfully, the opening stock details will 
 Step 5: Enable or select the **Post** option.
 
 1. Verify all imported stock details.
-2. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 14-40-19 (2).png>)
+2. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 14-40-19.png>)
 
 * The opening stock will be posted and recorded successfully in the inventory system.
 

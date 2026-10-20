@@ -19,7 +19,7 @@ Step 3: Click on the **New** button.
 
 <figure><img src="../../../.gitbook/assets/m30.2.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: Enter the required venue information such as **Venue ID, Venue Name, Venue Type** and Other relevant details&#x20;
+Step 4: Enter the required venue information such as **Venue ID, Venue Name, Venue Type** and Other relevant details
 
 * Ensure all details are entered correctly for proper configuration and usage.
 
@@ -29,4 +29,4 @@ Step 5: After entering all required information, click on the **Save** button.
 
 * The system will save the Venue successfully.
 
-<figure><img src="../../../.gitbook/assets/m26.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/d1.2.png" alt=""><figcaption></figcaption></figure>

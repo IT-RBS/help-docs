@@ -25,7 +25,7 @@ Step 3: Select the preferred **Report Style**.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 10-07-01.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: Click the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 09-55-53 (1).png>)
+Step 4: Click the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 09-55-53.png>)
 
 1. Select the required filtering criteria from the available options.
 
@@ -35,7 +35,7 @@ Step 5: Once the required **reporting period**, **report style**, and **filter o
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 10-11-54.png" alt=""><figcaption></figcaption></figure>
 
-Step 6: After generating the report :&#x20;
+Step 6: After generating the report :
 
 * Click the **Print** button ![](<../../../.gitbook/assets/image (1382).png>)to generate the report in a printable document format.
 * Click the **Excel** button ![](<../../../.gitbook/assets/image (1383).png>) to export the report to Microsoft Excel format for further analysis and reporting.

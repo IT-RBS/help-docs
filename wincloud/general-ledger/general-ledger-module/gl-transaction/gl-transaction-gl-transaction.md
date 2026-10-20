@@ -55,13 +55,13 @@ Step 7: Select Bill Reference Details
 1. In the bill reference window, enter or select the following details such as **Reference Type, Reference Name (Bill Number), Bill Date, Due Date** and **Amount.**
 2. After entering the required information, click **Done**.![](<../../../.gitbook/assets/Screenshot from 2026-06-04 18-02-05.png>)
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-04 18-01-48 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-04 18-01-48.png" alt=""><figcaption></figcaption></figure>
 
 Step 8: If you select **Reference Type** as **Against Bill Reference**, the system will display all pending bills for the selected party.
 
 1. To make a payment, select the bill(s) against which the payment is being made.
 
-<figure><img src="../../../.gitbook/assets/image (1380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1379).png" alt=""><figcaption></figcaption></figure>
 
 1. Enter the payment amount.
 2. You can pay the bill in full or make a partial payment. The outstanding balance will remain pending against the same bill until it is fully settled.

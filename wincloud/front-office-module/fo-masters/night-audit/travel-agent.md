@@ -8,7 +8,7 @@ Steps to View a Travel Agent
 
 2.Click on Open button we can able to see the TRAVEL AGENT TYPE.
 
-<figure><img src="../../../.gitbook/assets/17 (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (298).png" alt=""><figcaption></figcaption></figure>
 
 3.Enter the Agent Id,Agent Type,Link Company,Name,Commission%,Category are shown below.
 
@@ -19,8 +19,6 @@ Steps to View a Travel Agent
 <figure><img src="../../../.gitbook/assets/19 (7).png" alt=""><figcaption></figcaption></figure>
 
 5.Click on Others Chose the Market Segment shown below.
-
-&#x20;
 
 <figure><img src="../../../.gitbook/assets/20 (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -39,4 +37,3 @@ Steps to View a Travel Agent
 Code,Rate.
 
 9.Once Travel Agent is created click on Save button.
-

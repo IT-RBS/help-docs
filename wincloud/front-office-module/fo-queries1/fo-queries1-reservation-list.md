@@ -23,7 +23,7 @@ As the name suggests, this report will show you the list of all the reservations
 A **Funnel filter** search is provided to search for any specific data. It is placed next to dates.\
 A filter to see **Country wise** will group reservations based on Countries.
 
-<img src="../../.gitbook/assets/Screenshot 2023-07-31 115311 (1).png" alt="" width="375">
+<img src="../../.gitbook/assets/Screenshot 2023-07-31 115311.png" alt="" width="375">
 
 And Options filter also helps you to add other data as columns within Reports to see a detailed reservation report.
 

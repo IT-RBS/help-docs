@@ -31,6 +31,6 @@ Step 3: Click on the **Vendor Name** field.
 * Confirm that the correct vendor and materials have been selected for return.
 * Ensure that the returned quantities do not exceed the quantities originally received.
 
-Step 4: After verifying all details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 10-26-56 (5).png>)
+Step 4: After verifying all details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 10-26-56.png>)
 
 * The Receipt Return document will be created successfully, and the inventory records will be updated accordingly.

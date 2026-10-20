@@ -1,7 +1,5 @@
 # PAYMENT / COLLECTION TYPE
 
-
-
 **Steps to View a Payment / Collection Type.**
 
 **PAYMENT / COLLECTION TYPE**
@@ -10,7 +8,7 @@
 
 2.Click on Open button we can able to see the MISCELLANEOUS RECEIPTS/ PAYMENT TYPE.
 
-<figure><img src="../../../.gitbook/assets/1 (297).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (296).png" alt=""><figcaption></figcaption></figure>
 
 3.Click on Tm. Type and chose the type Payment type.
 
@@ -26,5 +24,4 @@
 
 6.once Revenue Search select click on Save button it we updated successfully.
 
-<figure><img src="../../../.gitbook/assets/5 (128).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../../.gitbook/assets/13 (19).png" alt=""><figcaption></figcaption></figure>

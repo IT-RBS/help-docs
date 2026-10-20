@@ -34,4 +34,4 @@ The Room type is created to separate rooms according to their categories. Here t
 
 ![](<../../../.gitbook/assets/5 (74).png>)
 
-8\. Click ![](<../../../.gitbook/assets/6 (27).png>) once room type is created
+8\. Click ![](<../../../.gitbook/assets/10 (7).png>) once room type is created

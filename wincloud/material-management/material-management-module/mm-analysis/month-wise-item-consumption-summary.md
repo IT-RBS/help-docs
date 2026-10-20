@@ -16,7 +16,7 @@ Step 2: After opening the report page, choose the appropriate filters to generat
 
 * The report supports multiple filters, allowing users to customise the results based on their specific analysis requirements.
 
-Step 3: Use the Funnel Filter![](<../../../.gitbook/assets/Screenshot from 2026-06-03 09-52-22 (3).png>)
+Step 3: Use the Funnel Filter![](<../../../.gitbook/assets/Screenshot from 2026-06-03 09-52-22.png>)
 
 * The **Funnel Filter** enables users to further refine the report by applying specific search criteria.
 

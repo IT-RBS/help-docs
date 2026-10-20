@@ -15,7 +15,7 @@ Step 1: Navigate to the **General Ledger** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-08 12-10-38.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 11-56-21 (1).png>)
+Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 11-56-21.png>)
 
 * Review the list of closed months displayed on the screen.
 
@@ -27,6 +27,6 @@ Step 3: Select the month that need to be reopened.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-08 12-14-25.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 10-03-40 (4).png>)
+Step 4: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 10-03-40.png>)
 
 * The selected month(s) are successfully reopened, and the period closing is reversed.

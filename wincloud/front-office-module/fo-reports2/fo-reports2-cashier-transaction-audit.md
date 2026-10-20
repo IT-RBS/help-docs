@@ -22,7 +22,7 @@ This report shows you all the transactions made by the cashier. If the cashier h
 
 **Users** is to filter User wise or for selecting all the Users.
 
-![](<../../.gitbook/assets/2 (167).png>)
+![](<../../.gitbook/assets/1 (261).png>)
 
 To filter the type of **Transaction**.
 
@@ -34,6 +34,6 @@ To see only Cancelled or Amended transactions you can select specific checkbox.
 
 ![](<../../.gitbook/assets/5 (81).png>)
 
-Based on the selected filter and date period the report will be generated and will show the modification in the bills or transactions along with the reason for the  change made.
+Based on the selected filter and date period the report will be generated and will show the modification in the bills or transactions along with the reason for the change made.
 
 ![](<../../.gitbook/assets/Screenshot 2023-08-07 110211.png>)

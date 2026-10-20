@@ -10,9 +10,9 @@ description: Steps to perform a walk-in check-in
 
 3\. Choose a **Room type, No.of Nights, Adults, Rate type,** and select **Room No.**
 
-![](<../../../.gitbook/assets/image (684).png>)
+![](<../../../.gitbook/assets/image (373).png>)
 
-4\. Type the **Guest name** in case of a new guest or select from an existing  guest profile in case of a repeat guest.   &#x20;
+4\. Type the **Guest name** in case of a new guest or select from an existing guest profile in case of a repeat guest.
 
 ![](<../../../.gitbook/assets/image (318).png>)
 

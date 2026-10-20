@@ -16,7 +16,7 @@ Multiple Filters and sorting options are provided to prepare your own report.
 
 Shows the total amount of the Group
 
-![](<../../../.gitbook/assets/2 (101).png>)
+![](<../../../.gitbook/assets/2 (62).png>)
 
 **Funnel Filter:** This helps you to search for a specific supplier and his related transactions, supply type wise etc.
 
@@ -24,8 +24,8 @@ Shows the total amount of the Group
 
 **Columns:** This filter, as it says adds columns of additional information in the report.
 
-![](<../../../.gitbook/assets/4 (147).png>)
+![](<../../../.gitbook/assets/4 (74).png>)
 
 This report will be an all-in-one report for the transactions of GRN or for anything related to GSTIN and Taxes of the suppliers in this module.
 
-![](<../../../.gitbook/assets/5 (52).png>)
+![](<../../../.gitbook/assets/5 (42).png>)

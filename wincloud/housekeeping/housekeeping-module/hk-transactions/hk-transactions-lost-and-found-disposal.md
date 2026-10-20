@@ -2,7 +2,7 @@
 description: Steps to lost and found disposal
 ---
 
-# Lost  And Found Disposal
+# Lost And Found Disposal
 
 The **Lost and Found Disposal** option is used to record the disposal details of lost and found items stored in the hotel.
 
@@ -37,7 +37,7 @@ Step 5: Select Disposal Details.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-05-25 15-22-34.png" alt=""><figcaption></figcaption></figure>
 
-Step 6: After entering all required disposal details, click on the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-05-25 16-29-15 (1).png>)
+Step 6: After entering all required disposal details, click on the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-05-25 16-29-15.png>)
 
 * Once saved successfully, the Lost and Found Disposal transaction will be recorded in the system.
 

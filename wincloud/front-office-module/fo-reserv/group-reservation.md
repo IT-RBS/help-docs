@@ -40,8 +40,6 @@ Click the OK button to save the changes.
 
 The rates are displayed in the rate box in the WinCloud reservation screen based on the plan, room, and guest specifications.
 
-
-
 · Click on the new button at the bottom of the Group Search screen.
 
 · Add a new Group name, contact, company, Travel agent, and Country.
@@ -58,7 +56,7 @@ The rates are displayed in the rate box in the WinCloud reservation screen based
 
 <figure><img src="../../.gitbook/assets/G3.png" alt=""><figcaption></figcaption></figure>
 
-2.The rates are displayed in the rate box in the WinCloud reservation screen based on the plan, room, and guest specifications.&#x20;
+2.The rates are displayed in the rate box in the WinCloud reservation screen based on the plan, room, and guest specifications.
 
 <figure><img src="../../.gitbook/assets/g5.png" alt=""><figcaption></figcaption></figure>
 
@@ -108,9 +106,9 @@ The Rate Edit button allows for modifying rates if they need to be amended after
 
 2.If the reservation is already created, then click the **Open icon** from the reservation screen.
 
-&#x20; a.Select the reservation from the list.
+a.Select the reservation from the list.
 
-&#x20; b.Click the Rate Edit button to edit rates.
+b.Click the Rate Edit button to edit rates.
 
 3.Clicking the ‘Restore to standard rate’ button restores the room rate to the standard rate allocated for the room.
 
@@ -120,7 +118,7 @@ The Rate Edit button allows for modifying rates if they need to be amended after
 
 <figure><img src="../../.gitbook/assets/g8.png" alt=""><figcaption></figcaption></figure>
 
-**o edit/amend the defined daily rate for a particular In-house Guest.**&#x20;
+**o edit/amend the defined daily rate for a particular In-house Guest.**
 
 · Go to Front Office>>Reservation >> Reservation (Open Mode)
 
@@ -132,7 +130,7 @@ The **Packages button** can be used to allocate a package to a guest. The packag
 
 · Click on the package button to open the Package allotment window
 
-<figure><img src="../../.gitbook/assets/g9Picture1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (78).png" alt=""><figcaption></figcaption></figure>
 
 pon clicking the **package button** on the top right corner, a list of packages appears.
 
@@ -143,8 +141,6 @@ pon clicking the **package button** on the top right corner, a list of packages 
 · If the guest requests additional services—such as an extra bed, a city tour, or taxi service—click the Revenue button next to the package.
 
 <figure><img src="../../.gitbook/assets/g12.png" alt=""><figcaption></figcaption></figure>
-
-
 
 · From the **Revenue Search list**, select the services. And click **OK.**
 
@@ -216,8 +212,6 @@ Select the room type from the room field if the guest wants a specific type of r
 
 · For a new guest, create a new profile by entering the required details.
 
-&#x20;
-
 <figure><img src="../../.gitbook/assets/Q6.png" alt=""><figcaption></figcaption></figure>
 
 · Check the Create as new Guest button.
@@ -260,8 +254,6 @@ Click the split button.
 
 Enter the number of splits to be created in the field.
 
-
-
 Click create.
 
 <figure><img src="../../.gitbook/assets/Q11.png" alt=""><figcaption></figcaption></figure>
@@ -273,4 +265,3 @@ Click create.
 · To allocate the specific rooms to the guests, click the Auto-allocate button.
 
 <figure><img src="../../.gitbook/assets/Q13.png" alt=""><figcaption></figcaption></figure>
-

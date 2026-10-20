@@ -17,4 +17,4 @@ To define a new Room Type, you must access the Room Type master within the Front
 
 Once a Room Type is defined, you can link it to specific room numbers within the Room Master tool.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-12 11-54-02 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-12 11-54-02.png" alt=""><figcaption></figcaption></figure>

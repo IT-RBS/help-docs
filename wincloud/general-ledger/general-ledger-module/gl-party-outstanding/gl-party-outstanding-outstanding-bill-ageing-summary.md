@@ -25,7 +25,7 @@ Step 3: Click the **Parties Search** option.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-08 17-32-45.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: Click the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-50-57 (1).png>)
+Step 4: Click the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-50-57.png>)
 
 1. Apply the required filters to refine the report data.
 

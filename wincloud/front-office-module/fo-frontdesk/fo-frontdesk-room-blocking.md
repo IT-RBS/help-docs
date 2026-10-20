@@ -8,7 +8,7 @@ description: Steps to block and unblock the room
 
 This option is used to block rooms. There are two types of Room blocking
 
-1. Management room block – Pre-blocking of a particular room for future arrivals or other reasons can be done using the management type.&#x20;
+1. Management room block – Pre-blocking of a particular room for future arrivals or other reasons can be done using the management type.
 2. Maintenance Room Block
    1. Out Of Order (For Long Duration)
    2. Out Of Service (Temp Block for Short Duration)
@@ -25,13 +25,13 @@ This option is used to block rooms. There are two types of Room blocking
 
 <figure><img src="../../.gitbook/assets/image (934).png" alt=""><figcaption></figcaption></figure>
 
-3. After selecting the dates, choose the room to be blocked. If you know the room number, enter it directly; otherwise, use the magnifier icon to search for the room      &#x20;
+3. After selecting the dates, choose the room to be blocked. If you know the room number, enter it directly; otherwise, use the magnifier icon to search for the room
 
 <figure><img src="../../.gitbook/assets/image (935).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (937).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (936).png" alt=""><figcaption></figcaption></figure>
 
-4. Click on the room number and select the room number from the room search screen.&#x20;
+4. Click on the room number and select the room number from the room search screen.
 5. Enter the narration for the room blocking in the narration field. and save![](<../../.gitbook/assets/image (938).png>)
 
 <figure><img src="../../.gitbook/assets/image (939).png" alt=""><figcaption></figcaption></figure>
@@ -42,7 +42,7 @@ Important Note:
 
 ### **Steps to release the room block**
 
-1\. To release blocked rooms, click on the Blue R icon![](<../../.gitbook/assets/image (950).png>) to display the list of blocked rooms.&#x20;
+1\. To release blocked rooms, click on the Blue R icon![](<../../.gitbook/assets/image (949).png>) to display the list of blocked rooms.
 
 <figure><img src="../../.gitbook/assets/image (940).png" alt=""><figcaption></figcaption></figure>
 

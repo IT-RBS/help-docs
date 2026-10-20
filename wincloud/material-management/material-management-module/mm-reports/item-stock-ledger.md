@@ -12,7 +12,7 @@ Step 1: Navigate to the **Reports** menu in the **Inventory** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-02 14-03-10.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot from 2026-06-02 10-43-11 (4).png>)
+Step 2: Click the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot from 2026-06-02 10-43-11.png>)
 
 1. Select the required criteria according to your reporting requirements.
 

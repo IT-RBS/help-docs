@@ -14,6 +14,6 @@ Room building tool helps you add towers or blocks situated in the property. Thes
 
 3\. To modify created room building, click ![](<../../../.gitbook/assets/2 (96).png>) and select the room building ID.
 
-4\. Click ![](<../../../.gitbook/assets/3 (115).png>) once changes are made.
+4\. Click ![](<../../../.gitbook/assets/10 (7).png>) once changes are made.
 
 5\. While modifying, only the name of the building can be edited, the ID cannot be changed.

@@ -25,7 +25,7 @@ Step 3: Select the **From Date** and **To Date**.
 
 1. The system will retrieve transactions that fall within the selected date range.
 
-Step 4: Click the **Advance Search** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-09 14-53-48 (1).png>)
+Step 4: Click the **Advance Search** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-09 14-53-48.png>)
 
 1. Select the required filter criteria.
 
@@ -50,6 +50,5 @@ Step 6: Once a transaction recorded in the software has been reflected in the ba
 
 Step 7: After generating the report :
 
-* Click the **Print** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-37-58 (2).png>) to generate the report in a printable document format.
-* Click the **Excel** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-37-08 (2).png>) to export the report to Microsoft Excel format for further analysis and reporting.
-
+* Click the **Print** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-37-58.png>) to generate the report in a printable document format.
+* Click the **Excel** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-37-08.png>) to export the report to Microsoft Excel format for further analysis and reporting.

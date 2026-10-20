@@ -14,7 +14,7 @@ Step 1: Go to the **Housekeeping** module from the main menu.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 17-10-12.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click on the **Open** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 16-18-03 (1).png>)
+Step 2: Click on the **Open** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 16-18-03.png>)
 
 1. Choose the required **Store Type** from the available list.
 

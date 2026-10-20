@@ -8,15 +8,15 @@ Steps to create a Night Audit Main Group.
 
 2.Click on New button we can able to see the NA MAIN GROUP.
 
-<figure><img src="../../../.gitbook/assets/8 (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/24 (6).png" alt=""><figcaption></figcaption></figure>
 
 3.Enter the Group Id,Group Name,Seq no are shown below.
 
-<figure><img src="../../../.gitbook/assets/9 (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/26 (6).png" alt=""><figcaption></figcaption></figure>
 
 4.Choose the Applicable Seq are shown below.
 
-<figure><img src="../../../.gitbook/assets/10 (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (292).png" alt=""><figcaption></figcaption></figure>
 
 5.Click on Multi-Property Group shown below.
 

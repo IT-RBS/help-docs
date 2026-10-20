@@ -10,11 +10,11 @@ Step 1: Navigate to the **Transactions** menu in the **Bill Passing** module.
 
 * The **Purchase Bill Passing Reprint** screen will be displayed.
 
-<figure><img src="../../.gitbook/assets/Screenshot from 2026-06-04 09-47-11 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot from 2026-06-04 09-47-11.png" alt=""><figcaption></figcaption></figure>
 
 Step 2: Select the required **Category** from the available options
 
-<figure><img src="../../.gitbook/assets/Screenshot from 2026-06-04 09-48-34 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot from 2026-06-04 09-48-34.png" alt=""><figcaption></figcaption></figure>
 
 1. Select the appropriate **Type** based on your requirement.
 

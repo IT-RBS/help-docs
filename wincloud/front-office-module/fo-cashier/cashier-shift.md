@@ -39,10 +39,10 @@ The Cashier Shift menu is used to record the time a cashier logs in and logs out
     <figure><img src="../../.gitbook/assets/image (1112).png" alt=""><figcaption></figcaption></figure>
 2. Enter the closing time in the End Time field.
 
-<figure><img src="../../.gitbook/assets/image (1117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1115).png" alt=""><figcaption></figcaption></figure>
 
 3. Enter the ending narration within the End Narration field if he has something specific to mention.
-4. The opening balance will be displayed in the opening balance field.&#x20;
+4. The opening balance will be displayed in the opening balance field.
 5. The system populates all transactions automatically.
 6. If there are any adjustments to the transactions, mention them under the adjustment field.
 7. The closing balance will also be displayed.

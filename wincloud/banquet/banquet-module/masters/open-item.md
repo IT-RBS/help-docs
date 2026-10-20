@@ -53,4 +53,4 @@ Step 7: After completing all required fields and selections, click on the **Save
 
 <figure><img src="../../../.gitbook/assets/m28.5.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/m26.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/d1.2.png" alt=""><figcaption></figcaption></figure>

@@ -7,13 +7,13 @@
 Step 1: Go to the main menu of the application and click on **Settings**.
 
 1. From the Settings menu, select **GST India**.
-2. Click on **Sales Bill Wise Summary**  to open the screen.
+2. Click on **Sales Bill Wise Summary** to open the screen.
 
 <figure><img src="../../../.gitbook/assets/a18.png" alt=""><figcaption></figcaption></figure>
 
 Step 2: Click on the **Supply Type** field.
 
-1. Choose the required supply type based on your  requirement.
+1. Choose the required supply type based on your requirement.
 
 <figure><img src="../../../.gitbook/assets/a18.1.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,4 +34,4 @@ Step 5: Click on the **Display** button.
 Step 6: Export and Print Options.
 
 1. Click on the **Excel** button to download the report in Excel format.![](<../../../.gitbook/assets/image (1336).png>)
-2. Click on the **Print** button to generate the report in PDF format or open it in print view for printing.![](<../../../.gitbook/assets/image (1335).png>)
+2. Click on the **Print** button to generate the report in PDF format or open it in print view for printing.![](<../../../.gitbook/assets/image (1333).png>)

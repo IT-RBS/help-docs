@@ -31,4 +31,4 @@ Step 4: Click the **Close Month** button.![](<../../../.gitbook/assets/Screensho
 
 1. The system will process the month-end closure for the selected store.
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 16-56-21 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 16-56-21.png" alt=""><figcaption></figcaption></figure>

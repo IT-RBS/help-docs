@@ -16,11 +16,10 @@ description: Steps to create a RATE Currency.
 
 <figure><img src="../../../.gitbook/assets/RRR3.png" alt=""><figcaption></figcaption></figure>
 
-4.Click on Search Icon we can able to see the Currency Name  by chose we can able to add the rate currency.
+4.Click on Search Icon we can able to see the Currency Name by chose we can able to add the rate currency.
 
 <figure><img src="../../../.gitbook/assets/RRR4.png" alt=""><figcaption></figcaption></figure>
 
 5.Click pon Save button Rate Currency will be added successfully.
 
-<figure><img src="../../../.gitbook/assets/RRR5.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../../.gitbook/assets/AD.png" alt=""><figcaption></figcaption></figure>

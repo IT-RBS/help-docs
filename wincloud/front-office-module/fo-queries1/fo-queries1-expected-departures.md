@@ -12,9 +12,9 @@ Expected departures report shows the upcoming departures of the guest. This repo
 
 ![](<../../.gitbook/assets/Screenshot 2023-07-28 170952.png>)
 
-2.To change the date, click on ![](<../../.gitbook/assets/1 (265).png>) icon and select the required date
+2.To change the date, click on ![](<../../.gitbook/assets/1 (31).png>) icon and select the required date
 
-3.Click on ![](<../../.gitbook/assets/4 (59).png>) icon to filter and search for any departure list
+3.Click on ![](<../../.gitbook/assets/3 (88).png>) icon to filter and search for any departure list
 
 <img src="../../.gitbook/assets/Screenshot 2023-07-28 173001.png" alt="" width="375">
 

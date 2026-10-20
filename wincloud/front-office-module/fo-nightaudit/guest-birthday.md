@@ -10,7 +10,7 @@ As the name of the report suggests, it shows the complete list of birthdays for 
 
 1.To view the report, go to “FRONT OFFICE” module “NIGHT AUDIT” “GUEST BIRTHDAY”
 
-2.Select the month and date required and click ![](<../../.gitbook/assets/0 (197).png>)
+2.Select the month and date required and click ![](<../../.gitbook/assets/0 (69).png>)
 
 ![](<../../.gitbook/assets/Screenshot 2023-07-21 121602.png>)
 
@@ -18,4 +18,4 @@ As the name of the report suggests, it shows the complete list of birthdays for 
 
 4.If the birth date of the spouse is added to the guest profile, then it reflects while enabling ![](<../../.gitbook/assets/3 (151).png>)
 
-5.This report can be either converted to excel by clicking ![](<../../.gitbook/assets/4 (85).png>) or printed by clicking ![](<../../.gitbook/assets/5 (5).png>)
+5.This report can be either converted to excel by clicking ![](<../../.gitbook/assets/9 (9).png>) or printed by clicking ![](<../../.gitbook/assets/5 (5).png>)

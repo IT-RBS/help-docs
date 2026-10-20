@@ -31,7 +31,7 @@ Step 4: Click the **Advanced Filter** option.![](<../../../.gitbook/assets/Scree
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-08 17-05-46.png" alt=""><figcaption></figcaption></figure>
 
-Step 5: Click the **Options** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-48-41 (1).png>)
+Step 5: Click the **Options** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-48-41.png>)
 
 1. Select the required report settings and display preferences.
 
@@ -51,5 +51,5 @@ Step 7: Use the **Add Column** option to include additional fields in the report
 
 Step 8: After generating the report :
 
-* Click the **Print** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-37-58 (1).png>) to generate the report in a printable document format.
-* Click the **Excel** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-37-08 (1).png>) to export the report to Microsoft Excel format for further analysis and reporting.
+* Click the **Print** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-37-58.png>) to generate the report in a printable document format.
+* Click the **Excel** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-37-08.png>) to export the report to Microsoft Excel format for further analysis and reporting.

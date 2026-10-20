@@ -58,6 +58,6 @@ Step 7: Confirm the selected transactions.
 
 Step 8: If required, use multiple filters to locate specific transactions more efficiently( example: bill-wise or amount-wise search).
 
-Step 9: After confirming the reversal of the selected transactions, click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 10-03-40 (2).png>)
+Step 9: After confirming the reversal of the selected transactions, click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 10-03-40.png>)
 
 * The reconciliation reversal is successfully saved, and the selected transactions are available for reconciliation again.

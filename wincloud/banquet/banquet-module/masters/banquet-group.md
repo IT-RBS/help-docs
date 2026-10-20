@@ -40,4 +40,4 @@ Step 6: After entering all required details and selections, click on the **Save*
 
 * The system will save the Banquet Group successfully.
 
-<figure><img src="../../../.gitbook/assets/m26.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/d1.2.png" alt=""><figcaption></figcaption></figure>

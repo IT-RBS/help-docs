@@ -38,9 +38,8 @@ Step 6: Enter the reason or remarks for blocking the room(Example:AC maintenance
 
 * Providing proper narration helps in operational tracking and future reference.
 
-Step 7: After entering all required details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-05-25 16-29-15 (5).png>)
+Step 7: After entering all required details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-05-25 16-29-15.png>)
 
 * Once the room blocking is saved successfully, the system displays a confirmation pop-up message.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-05-25 12-18-39.png" alt=""><figcaption></figcaption></figure>
-

@@ -24,4 +24,4 @@ You can verify your preparedness using the **Night Audit Check List**, which wil
 4. **Completion:** Click **Proceed** to finalize the audit and open the new business day.
 5. **GL Posting:** After the audit is finished, use the **NA GL Posting** option to transfer the night audit revenue data to the **General Ledger.**
 
-<figure><img src="../../../.gitbook/assets/image (1076).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1075).png" alt=""><figcaption></figcaption></figure>

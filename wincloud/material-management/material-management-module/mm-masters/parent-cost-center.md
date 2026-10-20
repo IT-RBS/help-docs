@@ -20,6 +20,6 @@ Step 3: Enter the required information.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-03 15-33-45.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: After entering all required details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 15-04-25 (2).png>)
+Step 4: After entering all required details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 15-04-25.png>)
 
 * The Parent Cost Center will be created successfully and stored in the system.

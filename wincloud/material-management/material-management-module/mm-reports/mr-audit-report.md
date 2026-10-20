@@ -12,7 +12,7 @@ Step 1: Navigate to the **Reports** menu in the **Inventory** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-02 15-03-04.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot from 2026-06-02 10-43-11 (6).png>)
+Step 2: Click the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot from 2026-06-02 10-43-11.png>)
 
 * This filter help users retrieve specific audit records and generate more accurate reports.
 
@@ -27,5 +27,5 @@ Step 3: After selecting the required filter criteria, click the **Display** butt
 Step 4: Print or Export the Report
 
 1. Once the MR Audit Report is displayed, you can:
-   * Click the **Print** button to print the report.![](<../../../.gitbook/assets/Screenshot from 2026-06-02 11-05-11 (6).png>)
-   * Click the **Excel** button to export and download the report in Microsoft Excel format.![](<../../../.gitbook/assets/Screenshot from 2026-06-02 11-05-32 (6).png>)
+   * Click the **Print** button to print the report.![](<../../../.gitbook/assets/Screenshot from 2026-06-02 11-05-11.png>)
+   * Click the **Excel** button to export and download the report in Microsoft Excel format.![](<../../../.gitbook/assets/Screenshot from 2026-06-02 11-05-32.png>)

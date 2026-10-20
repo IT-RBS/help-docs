@@ -34,11 +34,11 @@ The rates are displayed in the rate box in the WinCloud reservation screen based
 
 · Click the OK button to save the changes.
 
-<figure><img src="../../.gitbook/assets/1 (295).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/G3.png" alt=""><figcaption></figcaption></figure>
 
-2.The rates are displayed in the rate box in the WinCloud reservation screen based on the plan, room, and guest specifications.&#x20;
+2.The rates are displayed in the rate box in the WinCloud reservation screen based on the plan, room, and guest specifications.
 
-<figure><img src="../../.gitbook/assets/2 (257).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/g5.png" alt=""><figcaption></figcaption></figure>
 
 Routing: If the bill needs to be split among guests while creating a reservation, this button can be applied. In Wincloud, routing can be applied at four junctures.
 
@@ -56,7 +56,7 @@ The routing button enables advanced bill splitting during reservation creation. 
 
 · Click on the routing button after the guest and room creation is over. This takes you to the routing wind
 
-<figure><img src="../../.gitbook/assets/3 (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/g4.png" alt=""><figcaption></figcaption></figure>
 
 · ‘Assign to’ field tells WinCloud the number of splits assigned to the reservation.
 
@@ -64,19 +64,17 @@ The routing button enables advanced bill splitting during reservation creation. 
 
 · In the Edit split button, we specify the Guest name or Company Name. Payments/collections and Tips.
 
-<figure><img src="../../.gitbook/assets/4 (166).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/g6.png" alt=""><figcaption></figcaption></figure>
 
 Next, click on the group/ Revenue field to select the group and revenues to be split
 
-<figure><img src="../../.gitbook/assets/5 (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/g7.png" alt=""><figcaption></figcaption></figure>
 
 · Double-click on the Group button to enter the group name and click OK.
 
 · Double-click on the revenue button to select the revenues to be split and click OK.
 
 · Save the routing preferences.
-
-
 
 **Rate Edit**
 
@@ -88,9 +86,9 @@ The Rate Edit button allows for modifying rates if they need to be amended after
 
 2.If the reservation is already created, then click the **Open icon** from the reservation screen.
 
-&#x20; a.Select the reservation from the list.
+a.Select the reservation from the list.
 
-&#x20; b.Click the **Rate Edit button** to edit rates.
+b.Click the **Rate Edit button** to edit rates.
 
 3.Clicking the **‘Restore to standard rate’** button restores the room rate to the standard rate allocated for the room.
 
@@ -98,9 +96,9 @@ The Rate Edit button allows for modifying rates if they need to be amended after
 
 5.Save the screen.
 
-<figure><img src="../../.gitbook/assets/6 (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/g8.png" alt=""><figcaption></figcaption></figure>
 
-**o edit/amend the defined daily rate for a particular In-house Guest.**&#x20;
+**o edit/amend the defined daily rate for a particular In-house Guest.**
 
 · Go to Front Office>>Reservation >> Reservation (Open Mode)
 
@@ -116,15 +114,13 @@ The **Packages button** can be used to allocate a package to a guest. The packag
 
 pon clicking the **package button** on the top right corner, a list of packages appears.
 
-&#x20;
-
-<figure><img src="../../.gitbook/assets/8 (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/g11.png" alt=""><figcaption></figcaption></figure>
 
 · Select the package that you intend to apply to the reservation and click the OK button.
 
 · If the guest requests additional services—such as an extra bed, a city tour, or taxi service—click the Revenue button next to the package.
 
-<figure><img src="../../.gitbook/assets/9 (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/g12.png" alt=""><figcaption></figcaption></figure>
 
 · From the Revenue Search list, select the services. And click OK.
 
@@ -132,15 +128,13 @@ pon clicking the **package button** on the top right corner, a list of packages 
 
 · Save the package.
 
-
-
 Click the OK button to save the information.
 
 **Auto Charge.**
 
 Any additional charges can be charged using the Auto charges section.
 
-<figure><img src="../../.gitbook/assets/10 (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/g14.png" alt=""><figcaption></figcaption></figure>
 
 · Click on the add row button to select the other revenues to be added to the reservation.
 
@@ -150,5 +144,4 @@ Any additional charges can be charged using the Auto charges section.
 
 **Advance Room Search and Room Position.**
 
-<figure><img src="../../.gitbook/assets/11 (23).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/g15.png" alt=""><figcaption></figcaption></figure>

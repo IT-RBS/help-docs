@@ -16,7 +16,7 @@ Step 1: Navigate to the **Reports** menu in the **Inventory** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-02 12-46-06.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Funnel Filter**![](<../../../.gitbook/assets/Screenshot from 2026-06-02 10-43-11 (3).png>) icon to access the available filtering options.
+Step 2: Click the **Funnel Filter**![](<../../../.gitbook/assets/Screenshot from 2026-06-02 10-43-11.png>) icon to access the available filtering options.
 
 1. Select the required criteria to refine the report.
 

@@ -12,12 +12,12 @@ Step 1: Navigate to **Master** menu in the **Inventory** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-03 17-59-16.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Add** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 17-53-04 (1).png>)
+Step 2: Click the **Add** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 17-53-04.png>)
 
 Step 3: Enter the required information, such as **Group Name** and **Group ID.**
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-03 18-00-37.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: After entering all required details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 17-32-52 (2).png>)
+Step 4: After entering all required details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 17-32-52.png>)
 
 1. The Reorder Group will be created successfully in the system.

@@ -13,4 +13,4 @@ By selecting the property from the top left-hand side of the report screen, you 
 
 Other analytical reports, such as the Occupancy Analysis and the Manager Report, also support this multi-property functionality, allowing you to switch between individual properties or view a group-wide summary
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-12 17-21-41 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-12 17-21-41.png" alt=""><figcaption></figcaption></figure>

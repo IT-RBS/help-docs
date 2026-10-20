@@ -14,7 +14,7 @@ Step 1: Go to the **Housekeeping** module from the main menu.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 17-01-01.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click on the **New** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 16-47-46 (3).png>)
+Step 2: Click on the **New** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 16-47-46.png>)
 
 1. Enter the required details in the respective fields.
 
@@ -29,4 +29,4 @@ Step 3: After entering all required details, click on the **Save** button.
 
 * The store will be created successfully and added to the Store Master list.
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 16-48-58 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 16-48-58.png" alt=""><figcaption></figcaption></figure>

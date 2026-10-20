@@ -18,6 +18,6 @@ This option is used to make bills for outsiders. By using this option, the user 
 
 1. Once you click on Miscellaneous sales you will see the below screen.
 2. Now the user needs to select the outlet as per their requirement . Once the user has selected the outlet you can see the revenue also. Enter the charge amount and settlement mode as shown below.
-3. &#x20;Once all the fields are filled in click on the save button and you will get the message box as shown below.
+3. Once all the fields are filled in click on the save button and you will get the message box as shown below.
 
-![](<../../../.gitbook/assets/3 (49).png>)
+![](../../../.gitbook/assets/102.png)

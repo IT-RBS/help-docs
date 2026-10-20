@@ -13,13 +13,13 @@ The **Miscellaneous Sales Analysis** report provides a detailed overview of misc
 Step 1: Open the **Housekeeping** module.
 
 1. Click on **Reports**.
-2. Select  **Miscellaneous Sales Analysis**.
+2. Select **Miscellaneous Sales Analysis**.
 
 * The **Miscellaneous Sales Analysis** screen will appear.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 15-19-07.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click on the **Advanced Filter** option.![](<../../../.gitbook/assets/image (1365).png>)
+Step 2: Click on the **Advanced Filter** option.![](<../../../.gitbook/assets/image (1363).png>)
 
 1. Apply the required filters to refine the report data.
 

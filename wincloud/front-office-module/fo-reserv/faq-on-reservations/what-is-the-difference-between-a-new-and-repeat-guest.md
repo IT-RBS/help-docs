@@ -18,4 +18,4 @@ The primary difference between a New Guest and a Repeat Guest lies in how their 
 * **Detailed Analysis:** There is a dedicated Repeat Guest analysis report that allows you to filter and view specific details like mobile numbers, email, company affiliation, and nationality for these returning individuals.
 * **Emerging Markets:** The system also generates reports like "New Guest Arrivals and Guest Nights by Nationality," which helps the hotel identify emerging markets by tracking guests who have never stayed at the property before.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-11 10-17-36 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-11 10-17-36.png" alt=""><figcaption></figcaption></figure>

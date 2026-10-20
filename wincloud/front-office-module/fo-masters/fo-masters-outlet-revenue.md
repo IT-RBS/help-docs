@@ -18,7 +18,7 @@ Outlet revenue option is used to link the created revenues with the correspondin
 
 <img src="../../.gitbook/assets/Screenshot 2023-08-16 145344.png" alt="" width="229">
 
-4\. To add one more row for a new revenue click ![](<../../.gitbook/assets/4 (90).png>), then select ![](<../../.gitbook/assets/5 (15).png>) icon to search for another revenue
+4\. To add one more row for a new revenue click ![](<../../.gitbook/assets/4 (90).png>), then select ![](<../../.gitbook/assets/2 (31).png>) icon to search for another revenue
 
 ![](<../../.gitbook/assets/Screenshot 2023-08-16 145444.png>)
 

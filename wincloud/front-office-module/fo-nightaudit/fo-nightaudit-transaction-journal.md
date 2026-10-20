@@ -26,4 +26,4 @@ Transaction journal shows the complete transactions which happened for the day. 
 
 6.To view under which revenue the discounts are passed for the day click on ![](<../../.gitbook/assets/7 (67).png>)
 
-7.This report can be either converted to excel by clicking ![](<../../.gitbook/assets/8 (20).png>) or printed by clicking ![](<../../.gitbook/assets/9 (3).png>)
+7.This report can be either converted to excel by clicking ![](<../../.gitbook/assets/9 (9).png>) or printed by clicking ![](<../../.gitbook/assets/5 (5).png>)

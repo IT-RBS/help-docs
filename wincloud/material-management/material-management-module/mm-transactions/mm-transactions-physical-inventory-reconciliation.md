@@ -15,20 +15,20 @@ Steps to **Physical Inventory Reconciliation.**
 1. Go to **Transaction Physical Inventory Reconciliation.**
 2. The User Has to select the store, Screen shown below.
 
-![](<../../../.gitbook/assets/1 (285).png>)
+![](../../../.gitbook/assets/32.png)
 
 1. Once the User has Selected the store, click on the search icon to select the product list as shown below,
 
-![](<../../../.gitbook/assets/2 (76).png>)
+![](../../../.gitbook/assets/33.png)
 
 1. Once the user has selected the items which are not matching the user has to enter the quantity in the physical stock, as shown below.
 
-![](<../../../.gitbook/assets/3 (16).png>)
+![](../../../.gitbook/assets/34.png)
 
 1. After having entered the physical stock Quantity the user has to select the update stock check box as shown below.
 
-![](<../../../.gitbook/assets/4 (88).png>)
+![](../../../.gitbook/assets/35.png)
 
 1. Once the user has selected the update stock then click save.
 
-![](<../../../.gitbook/assets/5 (104).png>)
+![](<../../../.gitbook/assets/36 (2).png>)

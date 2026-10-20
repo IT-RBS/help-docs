@@ -12,7 +12,7 @@ Step 1: Navigate to the **Material GL Posting** menu in the **Bill Passing** mod
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2026-06-04 12-04-12.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Open** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-12-07 (4).png>)
+Step 2: Click the **Open** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-12-07.png>)
 
 1. The system will display the list of available **Product Sub Groups**.
 
@@ -26,6 +26,6 @@ Step 3: For the required product sub-group, click the **Search** icon.![](<../..
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2026-06-04 12-05-50.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: After linking the required GL account(s), click the **Save** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-13-10 (3).png>)
+Step 4: After linking the required GL account(s), click the **Save** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-13-10.png>)
 
 * The selected Product Sub Group will be successfully linked to the designated General Ledger account.

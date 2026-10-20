@@ -13,7 +13,7 @@ Step 1: Navigate to the **General Ledger** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-09 15-56-54.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Advance Filter** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-09 14-53-48 (3).png>)
+Step 2: Click the **Advance Filter** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-09 14-53-48.png>)
 
 1. Select the required filter options from the available list.
 

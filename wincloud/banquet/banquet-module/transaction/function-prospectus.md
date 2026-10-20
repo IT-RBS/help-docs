@@ -19,7 +19,7 @@ Step 2: Click the **Display** button.
 
 <figure><img src="../../../.gitbook/assets/m9.png" alt=""><figcaption></figcaption></figure>
 
-Step 3: After selecting the reservation, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 18-19-55 (3).png>)
+Step 3: After selecting the reservation, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 18-19-55.png>)
 
 1. Click **OK** to confirm the process.
 

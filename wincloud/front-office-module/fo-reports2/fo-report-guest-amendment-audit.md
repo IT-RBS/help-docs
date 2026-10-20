@@ -22,8 +22,6 @@ Both the amended data and the old data will be there in the report.
 
 Users can avail the filter option as shown below
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-07 112021 (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-07 112021.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <img src="../../.gitbook/assets/Screenshot 2023-08-07 111917.png" alt="" width="210">

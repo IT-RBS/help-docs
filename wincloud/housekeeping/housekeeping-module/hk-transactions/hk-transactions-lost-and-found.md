@@ -57,7 +57,7 @@ Fill in the following details carefully:
 
 * The print format can be customized according to the client’s requirements.
 
-Step 3: After entering all required details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-05-25 11-53-04 (1).png>)
+Step 3: After entering all required details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-05-25 11-53-04.png>)
 
 * Once saved successfully, the system updates the Lost & Found entry and displays a confirmation message.
 

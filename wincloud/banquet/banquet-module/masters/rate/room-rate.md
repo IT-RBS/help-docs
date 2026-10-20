@@ -36,5 +36,4 @@ Steps to create a Room Rate.
 
 7.Click on Save button Room Rate will be updated successfully.
 
-<figure><img src="../../../../.gitbook/assets/R6.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../../../.gitbook/assets/AD.png" alt=""><figcaption></figcaption></figure>

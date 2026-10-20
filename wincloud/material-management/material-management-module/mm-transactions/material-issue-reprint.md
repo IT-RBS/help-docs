@@ -27,7 +27,7 @@ Step 3: From the displayed list, select the required **Material Issue** document
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 14-59-43.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: After selecting the required Material Issue record, click the **Print** ![](<../../../.gitbook/assets/Screenshot from 2026-06-01 15-00-03 (1).png>)button.
+Step 4: After selecting the required Material Issue record, click the **Print** ![](<../../../.gitbook/assets/Screenshot from 2026-06-01 15-00-03.png>)button.
 
 1. The system will generate a reprint of the selected Material Issue document.
 

@@ -12,7 +12,7 @@ Step 1: Navigate to the **Material GL Posting** menu in the **Bill Passing** mod
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2026-06-04 11-51-10.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Open** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-12-07 (3).png>)
+Step 2: Click the **Open** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-12-07.png>)
 
 * The system will display the existing mapping details.
 
@@ -24,6 +24,6 @@ Step 3: Verify the assigned **Cost Center** for each material department.
 
 Step 4: If any changes are made, ensure the details are correct.
 
-1. Click the **Save** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-13-10 (2).png>)
+1. Click the **Save** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-13-10.png>)
 
-* The Material Department to GL Cost Center mapping will be successfully saved.&#x20;
+* The Material Department to GL Cost Center mapping will be successfully saved.

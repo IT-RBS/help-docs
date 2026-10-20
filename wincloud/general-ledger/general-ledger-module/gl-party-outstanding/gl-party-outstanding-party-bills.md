@@ -13,7 +13,7 @@ Step 1: Navigate to the **General Ledger** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-09 09-42-29.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-50-57 (3).png>)
+Step 2: Click the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 16-50-57.png>)
 
 1. Select the required transaction type based on your reporting needs.
 
@@ -42,7 +42,7 @@ Step 5: After selecting the required filters, verify all selected criteria.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-09 09-46-53.png" alt=""><figcaption></figcaption></figure>
 
-Step 6: After generating the report :&#x20;
+Step 6: After generating the report :
 
 * Click the **Print** button ![](<../../../.gitbook/assets/image (1382).png>)to generate the report in a printable document format.
 * Click the **Excel** button ![](<../../../.gitbook/assets/image (1383).png>) to export the report to Microsoft Excel format for further analysis and reporting.

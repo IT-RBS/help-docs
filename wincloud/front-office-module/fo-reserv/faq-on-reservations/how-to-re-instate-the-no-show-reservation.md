@@ -13,4 +13,4 @@ To reinstate a No Show reservation, you must navigate to the specific reinstate 
 
 Once reinstated, the reservation will no longer appear in the No Show list and will be returned to an active status. You can track these actions later in the No Show/Cancelled Reservation Audit report, which lists all reinstated reservations within a selected period.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-12 12-38-58 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-12 12-38-58.png" alt=""><figcaption></figcaption></figure>

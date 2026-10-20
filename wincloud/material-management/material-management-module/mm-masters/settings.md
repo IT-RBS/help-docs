@@ -4,7 +4,7 @@
 
 ## Steps to View and Modify Settings
 
-Step 1: Navigate to **Master** menu in the **Inventory** module.&#x20;
+Step 1: Navigate to **Master** menu in the **Inventory** module.
 
 1. Click on **Settings**.
 
@@ -26,6 +26,6 @@ Step 3: Configure Required Settings
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-03 15-57-09.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: After completing the required changes, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 15-04-25 (3).png>)
+Step 4: After completing the required changes, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 15-04-25.png>)
 
 * The updated settings will be saved and applied within the system.

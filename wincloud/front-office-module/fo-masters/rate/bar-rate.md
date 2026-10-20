@@ -14,11 +14,10 @@ description: Steps to create a BAR RATE.
 
 3.Click on Round off option we can able to see the Round off amount will be showen below.
 
-<figure><img src="../../../.gitbook/assets/13 (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/13 (15).png" alt=""><figcaption></figcaption></figure>
 
 4.From selecting Rate Slab will be shown below.
 
 <figure><img src="../../../.gitbook/assets/14 (13).png" alt=""><figcaption></figcaption></figure>
 
 5.Click on Save button it will be updated successfully.
-

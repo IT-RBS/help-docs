@@ -14,7 +14,7 @@ Step 2: After selecting **Bill Reprint Audit**, the system will open the report 
 * By default, the system displays the report based on a **predefined day/date range**.
 * This view shows all bill reprint activities recorded within the selected period.
 
-<figure><img src="../../../.gitbook/assets/m19 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/m19 (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 3: Click on the **User** option.
 

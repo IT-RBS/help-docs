@@ -23,20 +23,19 @@ Step 3: Select the desired **Report Style**.
 
 * The report view will be updated accordingly.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 10-07-01 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 10-07-01.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: Click on the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 09-55-53 (2).png>)
+Step 4: Click on the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 09-55-53.png>)
 
 1. Select the required filter criteria from the available options.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 10-24-36.png" alt=""><figcaption></figcaption></figure>
 
-Step 5:  Once the required **reporting period**, **report style**, and **filter options** are selected, the **Balance Sheet Report** will be generated and displayed according to the selected criteria.
+Step 5: Once the required **reporting period**, **report style**, and **filter options** are selected, the **Balance Sheet Report** will be generated and displayed according to the selected criteria.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 10-25-24.png" alt=""><figcaption></figcaption></figure>
 
-Step 6: After generating the report :&#x20;
+Step 6: After generating the report :
 
 * Click the **Print** button ![](<../../../.gitbook/assets/image (1382).png>)to generate the report in a printable document format.
 * Click the **Excel** button ![](<../../../.gitbook/assets/image (1383).png>) to export the report to Microsoft Excel format for further analysis and reporting.
-

@@ -12,7 +12,7 @@ Step 1: Navigate to the **Material GL Posting** menu in the **Bill Passing** mod
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2026-06-04 11-11-43.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Open** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-12-07 (1).png>)
+Step 2: Click the **Open** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-12-07.png>)
 
 * The system will display the Material to GL Posting configuration settings.
 

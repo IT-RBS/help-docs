@@ -31,12 +31,12 @@ Step 3: Click **Add** to proceed with the process.
 1. Click on the **Product Name** field.
 2. Select the required product(s) from the displayed list.
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 17-19-56 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 17-19-56.png" alt=""><figcaption></figcaption></figure>
 
 * Verify that the selected store and products correspond to the inventory transactions that need to be posted.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 17-20-47.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: After verifying all details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 14-40-19 (3).png>)
+Step 4: After verifying all details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 14-40-19.png>)
 
 * Once completed, the inventory records will be updated successfully.

@@ -22,7 +22,7 @@ Step 2: Locate the **Store** field.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 11-26-07.png" alt=""><figcaption></figcaption></figure>
 
-Step 3: Click on the **Receipt No** field.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 11-00-10 (1).png>)
+Step 3: Click on the **Receipt No** field.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 11-00-10.png>)
 
 1. Select the Material Request number that needs to be cancelled.
 
@@ -40,6 +40,6 @@ Step 4:Click the **Cancel** button.
 
 Step 5: Review the cancellation details.
 
-1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 10-26-56 (2).png>)
+1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 10-26-56.png>)
 
 * The selected Material Request will be successfully cancelled and removed from further processing.

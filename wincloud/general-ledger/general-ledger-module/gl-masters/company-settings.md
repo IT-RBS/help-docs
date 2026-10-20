@@ -13,7 +13,7 @@ Step 1: Navigate to the **General Ledger** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 12-48-38.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click on the **Open** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 12-22-15 (1).png>)
+Step 2: Click on the **Open** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 12-22-15.png>)
 
 1. The available configuration options will be displayed.
 2. Select the required settings based on your requirements.
@@ -28,9 +28,9 @@ Step 3: The system provides multiple configuration sections. You can edit and ad
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 12-49-50.png" alt=""><figcaption></figcaption></figure>
 
-* **Ledger Settings -** Used to manage ledger creation rules, behaviour & structure and  control settings.
+* **Ledger Settings -** Used to manage ledger creation rules, behaviour & structure and control settings.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 12-50-26 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 12-50-26.png" alt=""><figcaption></figcaption></figure>
 
 * **AR/AP Settings -** Used to configure Accounts Receivable (AR) settings, Accounts Payable (AP) settings and credit terms and payment controls.
 
@@ -42,6 +42,6 @@ Step 3: The system provides multiple configuration sections. You can edit and ad
 
 Step 4: Make the required changes in each relevant section.
 
-1. After completing all changes, click the **Save** button![](<../../../.gitbook/assets/Screenshot From 2026-06-10 12-23-46 (1).png>)located at the top-right corner of the screen.
+1. After completing all changes, click the **Save** button![](<../../../.gitbook/assets/Screenshot From 2026-06-10 12-23-46.png>)located at the top-right corner of the screen.
 
 * The system will save and apply the updated company settings.

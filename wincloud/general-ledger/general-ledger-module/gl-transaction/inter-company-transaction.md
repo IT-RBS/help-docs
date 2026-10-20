@@ -28,12 +28,12 @@ Step 3: Click the **Search** icon available in the **Account Name** field.
 
 Step 4: Select the appropriate account name representing the related company involved in the transaction.
 
-Step 5: Enter the required transaction information.&#x20;
+Step 5: Enter the required transaction information.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-08 15-33-16.png" alt=""><figcaption></figcaption></figure>
 
 Step 6: Confirm that the selected account and transaction details are correct.
 
-1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 10-03-40 (6).png>)
+1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 10-03-40.png>)
 
 * The inter company transaction is successfully recorded in the system.

@@ -47,7 +47,7 @@ Step 6: From the displayed reservation list, locate the required **Guest Name**.
 
 * The reservation confirmation screen for the selected guest will open.
 
-<figure><img src="../../../.gitbook/assets/m8.4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/m7.4.png" alt=""><figcaption></figcaption></figure>
 
 Step 7: From the reservation confirmation screen, users can perform the following actions:
 

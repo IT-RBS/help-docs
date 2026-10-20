@@ -17,7 +17,7 @@ Step 1: Go to the **Housekeeping** main menu.
 
 Step 2: Select the **Location Type** from the available drop-down list.
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 12-27-59 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 12-27-59.png" alt=""><figcaption></figcaption></figure>
 
 Step 3: Choose the required **Status Type** from the available options then select the **Item Type** if required.
 
@@ -27,4 +27,4 @@ Step 3: Choose the required **Status Type** from the available options then sele
 
 Step 4: After selecting the required filters, click **Display**. The system will display the **Lost & Found Status Report**.
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 12-31-01 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 12-31-01.png" alt=""><figcaption></figcaption></figure>

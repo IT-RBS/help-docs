@@ -34,6 +34,6 @@ Step 4: Select the required cheque from the list.
 
 Step 5: Verify the cheque details before printing.
 
-1. Click the **Print** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 12-35-16 (1).png>)
+1. Click the **Print** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 12-35-16.png>)
 
 * The system generates a printable version of the selected cheque.

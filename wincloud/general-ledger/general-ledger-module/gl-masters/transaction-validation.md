@@ -23,7 +23,7 @@ Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot From 
 
 Step 3: Choose whether the validation applies to **Debit** or **Credit.**
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 15-06-39 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 15-06-39.png" alt=""><figcaption></figcaption></figure>
 
 * Once selected, the corresponding configuration screen will be displayed.
 
@@ -36,7 +36,7 @@ Step 4: Click the **Add** button.![](<../../../.gitbook/assets/Screenshot From 2
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 15-10-09.png" alt=""><figcaption></figcaption></figure>
 
-Step 5: Click the **Add** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-08-33 (1).png>) under the **Not Allow** section.
+Step 5: Click the **Add** button ![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-08-33.png>) under the **Not Allow** section.
 
 1. Select the account(s) that should be restricted.
 
@@ -44,6 +44,6 @@ Step 5: Click the **Add** button ![](<../../../.gitbook/assets/Screenshot From 2
 
 Step 6: Verify that the restrictions and permissions are configured correctly.
 
-1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 14-29-42 (3).png>)
+1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 14-29-42.png>)
 
 * The Transaction Validation rules will be saved and applied to the selected transaction type.

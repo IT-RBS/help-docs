@@ -23,7 +23,7 @@ Step 3:In the **Guest Name** field:
 
 * After selecting the guest, the reservation details will be displayed on the screen.
 
-Step 4: Once the reservation has been reinstated, you can update or modify the  following details:
+Step 4: Once the reservation has been reinstated, you can update or modify the following details:
 
 * Reservation information
 * Venue details
@@ -35,6 +35,6 @@ Step 4: Once the reservation has been reinstated, you can update or modify the  
 
 Make the necessary changes according to the guest’s requirements.
 
-Step 5: After verifying all updated details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 18-19-55 (2).png>)
+Step 5: After verifying all updated details, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 18-19-55.png>)
 
 1. The reservation will be successfully reinstated and updated in the system.

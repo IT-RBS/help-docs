@@ -25,4 +25,4 @@ Step 5: Click on the **Save** button.
 
 * Once saved successfully, the task duration will be updated in the system.
 
-<figure><img src="../../../.gitbook/assets/a1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/b5.3.png" alt=""><figcaption></figcaption></figure>

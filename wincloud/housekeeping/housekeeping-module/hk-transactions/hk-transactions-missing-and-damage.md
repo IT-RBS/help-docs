@@ -63,4 +63,4 @@ Step 2: After entering all required details, click the **Save** button.![](<../.
 
 * Once saved successfully, the Missing & Damage transaction will be recorded in the system.
 
-<figure><img src="../../../.gitbook/assets/b2.1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/b2.png" alt=""><figcaption></figcaption></figure>

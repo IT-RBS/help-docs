@@ -15,13 +15,13 @@ Step 1: Navigate to the **General Ledger** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 16-46-11.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-04-39 (4).png>)
+Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-04-39.png>)
 
 * The list of banks applicable for cheque printing will be displayed.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 16-47-11.png" alt=""><figcaption></figcaption></figure>
 
-Step 3: Click the **Add** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-32-05 (2).png>)
+Step 3: Click the **Add** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-32-05.png>)
 
 1. Click on the **Search** icon. A list of available bank names will be displayed.
 2. Select the required bank from the list.
@@ -36,6 +36,6 @@ Step 4: In the **Print Program Name** field, enter the name of the cheque printi
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 16-50-24.png" alt=""><figcaption></figcaption></figure>
 
-Step 5: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 14-29-42 (7).png>)
+Step 5: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 14-29-42.png>)
 
 * The bank configuration will be saved and made available for cheque printing.

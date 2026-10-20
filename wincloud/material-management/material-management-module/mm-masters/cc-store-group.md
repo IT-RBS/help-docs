@@ -12,7 +12,7 @@ Step 1: Navigate to **Master** menu in the **Inventory** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-03 17-48-18.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 17-30-42 (1).png>)
+Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 17-30-42.png>)
 
 Step 3: From the available list, select the required **Group Name**.
 
@@ -30,6 +30,6 @@ Step 5: After adding the required CC Store details, review the information caref
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-03 17-49-04.png" alt=""><figcaption></figcaption></figure>
 
-1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 17-32-52 (1).png>)
+1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 17-32-52.png>)
 
 * The CC Store Group will be created or updated successfully in the system.

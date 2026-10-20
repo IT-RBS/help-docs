@@ -24,6 +24,6 @@ Step 3: Update the required settings based on operational requirements.
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2026-06-04 14-43-00.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: Click the **Save** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 14-28-07 (1).png>)
+Step 4: Click the **Save** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 14-28-07.png>)
 
 * The system will validate and update the Bill Passing Settings.

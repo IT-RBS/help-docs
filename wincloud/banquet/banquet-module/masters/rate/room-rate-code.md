@@ -10,7 +10,7 @@ description: Steps to create a Room Rate Code.
 
 2.Click on Add button we can able to add the new ROOM RATE CODE.
 
-<figure><img src="../../../../.gitbook/assets/R6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/RR1.png" alt=""><figcaption></figcaption></figure>
 
 3\. Add the corresponding Section Rate Code Id ,Rate Code Name,Nature shown below.
 
@@ -26,5 +26,4 @@ description: Steps to create a Room Rate Code.
 
 6.Click on Save button it will updated successfully.
 
-<figure><img src="../../../../.gitbook/assets/R9.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../../../.gitbook/assets/AD.png" alt=""><figcaption></figcaption></figure>

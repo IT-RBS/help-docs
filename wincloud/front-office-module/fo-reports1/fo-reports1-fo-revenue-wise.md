@@ -46,9 +46,9 @@ And you can **Sort** the report based on the Bill no. or Room No. based on your 
 
 ![](<../../.gitbook/assets/6 (49).png>)
 
-An option which can be very useful to posting of very specific revenues.  This filter is also available in the report.
+An option which can be very useful to posting of very specific revenues. This filter is also available in the report.
 
-![](<../../.gitbook/assets/7 (39).png>)
+![](<../../.gitbook/assets/5 (92).png>)
 
 Select from the list of revenues (single, multiple and/ or all).
 

@@ -22,7 +22,7 @@ Step 3: Select the appropriate **Store Type** from the available options.
 
 Step 4: Select the **User** who should be assigned as an approver for the selected transaction.
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-03 17-11-14 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-03 17-11-14.png" alt=""><figcaption></figcaption></figure>
 
 1. Click the **Add** button.
 

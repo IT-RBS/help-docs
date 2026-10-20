@@ -13,9 +13,9 @@ Step 1: Navigate to the **General Ledger** module.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 15-56-36.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-04-39 (3).png>)
+Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-04-39.png>)
 
-1. In the **Applicable Currency** section, click the **Add** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-32-05 (1).png>)
+1. In the **Applicable Currency** section, click the **Add** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 15-32-05.png>)
 2. A list of available currencies will be displayed.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 16-10-28.png" alt=""><figcaption></figcaption></figure>
@@ -26,6 +26,6 @@ Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot From 
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 16-11-23.png" alt=""><figcaption></figcaption></figure>
 
-Step 3: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 14-29-42 (6).png>)
+Step 3: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 14-29-42.png>)
 
 * The Applicable Currency settings will be saved and made available for use within the system.

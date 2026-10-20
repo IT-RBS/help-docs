@@ -23,12 +23,12 @@ Steps to **Receipt Deletion**
 
 1. Once the user selected the receipt no, If you click the select all button it will select all the items in the list as shown below.
 
-![](<../../../.gitbook/assets/3 (105).png>)
+![](../../../.gitbook/assets/28.png)
 
 1. If you select the Delete Icon it will select the items to be deleted from the list.
 
-![](<../../../.gitbook/assets/4 (12).png>)
+![](<../../../.gitbook/assets/29 (2).png>)
 
 1. Once the user has selected the items in the receipt deletion then click save.
 
-![](<../../../.gitbook/assets/5 (117).png>)
+![](../../../.gitbook/assets/30.png)

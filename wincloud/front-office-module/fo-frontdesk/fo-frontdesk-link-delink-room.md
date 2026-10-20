@@ -23,15 +23,15 @@ This option allows occupied rooms to be linked together so that a **single conso
 <figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
 3. Clicking the Link / Delink Room button opens the link/delink screen.
-4. Double-Click on the magnifier in the room number field for the list of occupied rooms.   &#x20;
+4. Double-Click on the magnifier in the room number field for the list of occupied rooms.
 
-<figure><img src="../../.gitbook/assets/image (909).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (908).png" alt=""><figcaption></figcaption></figure>
 
 3. Select the room number you want to designate as the **Parent Room** from the displayed room list.
 
 <figure><img src="../../.gitbook/assets/image (911).png" alt=""><figcaption></figcaption></figure>
 
-5. Click on the plus button next to the table to select rooms for linking to the parent room.&#x20;
+5. Click on the plus button next to the table to select rooms for linking to the parent room.
 
 <figure><img src="../../.gitbook/assets/image (912).png" alt=""><figcaption></figcaption></figure>
 
@@ -47,8 +47,6 @@ This option allows occupied rooms to be linked together so that a **single conso
 
 <figure><img src="../../.gitbook/assets/image (917).png" alt=""><figcaption></figcaption></figure>
 
-
-
 Note:- Rooms already linked with some other room will not be allowed to link again.
 
 ### **Steps to Delink Room**
@@ -60,7 +58,7 @@ Note:- Rooms already linked with some other room will not be allowed to link aga
 
 3. Click on the open button to select the rooms to be delinked. Select from the list provided. Here, room number 320 is the linked parent room.
 
-<figure><img src="../../.gitbook/assets/image (919).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (918).png" alt=""><figcaption></figcaption></figure>
 
 4. Double-click on the room number to be de-linked. The screen displays the child rooms along with the parent room.
 
@@ -70,6 +68,6 @@ Note:- Rooms already linked with some other room will not be allowed to link aga
 
 <figure><img src="../../.gitbook/assets/image (922).png" alt=""><figcaption></figcaption></figure>
 
-6. Click on the save button to save the changes.&#x20;
+6. Click on the save button to save the changes.
 
-<figure><img src="../../.gitbook/assets/image (924).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (923).png" alt=""><figcaption></figcaption></figure>

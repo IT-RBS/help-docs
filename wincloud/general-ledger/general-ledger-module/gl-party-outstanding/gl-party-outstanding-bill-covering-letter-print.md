@@ -18,7 +18,7 @@ Step 2: Click the **Group** drop - down.
 1. Select the required group from the available list.
 2. The system will display the parties associated with the selected group.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-09 10-37-20 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-09 10-37-20.png" alt=""><figcaption></figcaption></figure>
 
 Step 3: Click the **Party** selection field.
 
@@ -28,7 +28,7 @@ Step 3: Click the **Party** selection field.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-09 11-06-53.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: Select the required  date range.
+Step 4: Select the required date range.
 
 1. Click **Display** to view covering letters generated within the selected period.
 

@@ -34,6 +34,6 @@ Step 3: Select the Material Request document that needs to be reprinted.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 10-40-42.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: After selecting the required Material Request, click the **Print** button![](<../../../.gitbook/assets/Screenshot from 2026-06-01 10-41-24 (1).png>) located in the top-right corner of the screen.
+Step 4: After selecting the required Material Request, click the **Print** button![](<../../../.gitbook/assets/Screenshot from 2026-06-01 10-41-24.png>) located in the top-right corner of the screen.
 
 1. The system will generate and print a copy of the selected Material Request document.

@@ -13,7 +13,7 @@ Step 1: Navigate to the **General Ledger** module.
 
 * The Revenue Group-Analysis Code Link screen will be displayed.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 17-01-58 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 17-01-58.png" alt=""><figcaption></figcaption></figure>
 
 Step 2: Choose the required **Revenue Main Group** from the list.
 
@@ -31,6 +31,6 @@ Step 4: Review the selected revenue group and linked analysis codes.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 17-05-30.png" alt=""><figcaption></figcaption></figure>
 
-1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 14-29-42 (8).png>)
+1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 14-29-42.png>)
 
 * The system will save the linkage between the revenue group and the analysis code.

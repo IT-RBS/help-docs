@@ -32,4 +32,4 @@ Using filter check boxes helps to derive reports on the basis of the filters app
 
 ![](<../../.gitbook/assets/image (796).png>)
 
-8.This report can be either converted to an excel by clicking ![](<../../.gitbook/assets/7 (53).png>) or printed by clicking ![](<../../.gitbook/assets/8 (57).png>)
+8.This report can be either converted to an excel by clicking ![](<../../.gitbook/assets/9 (9).png>) or printed by clicking ![](<../../.gitbook/assets/5 (5).png>)

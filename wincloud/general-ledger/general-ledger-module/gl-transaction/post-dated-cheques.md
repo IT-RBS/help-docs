@@ -35,6 +35,6 @@ Step 4: Enter the cheque amount in the appropriate field.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-08 14-15-32.png" alt=""><figcaption></figcaption></figure>
 
-Step 5: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 10-03-40 (5).png>)
+Step 5: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-08 10-03-40.png>)
 
 * The post-dated cheque transaction is successfully saved in the system.

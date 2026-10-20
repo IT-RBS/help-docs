@@ -10,23 +10,20 @@ description: Steps to create a Room Rate Code.
 
 2.Click on Add button we can able to add the new ROOM RATE CODE.
 
-&#x20;
-
 <figure><img src="../../../.gitbook/assets/RR1.png" alt=""><figcaption></figcaption></figure>
 
 3\. Add the corresponding Section Rate Code Id ,Rate Code Name,Nature shown below.
 
-<figure><img src="../../../.gitbook/assets/RR2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/R7.png" alt=""><figcaption></figcaption></figure>
 
 4.Click on Master Rate of Dependent Shown below.
 
-<figure><img src="../../../.gitbook/assets/RR3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/R7..png" alt=""><figcaption></figcaption></figure>
 
 5.Below Screen shows the week End Days we need to update the Room Rate code we can able to choose.
 
-<figure><img src="../../../.gitbook/assets/RR4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/R8.png" alt=""><figcaption></figcaption></figure>
 
 6.Click on Save button it will updated successfully.
 
-<figure><img src="../../../.gitbook/assets/RR5.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../../.gitbook/assets/AD.png" alt=""><figcaption></figcaption></figure>

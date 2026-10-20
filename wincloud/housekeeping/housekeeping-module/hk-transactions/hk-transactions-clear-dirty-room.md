@@ -30,7 +30,7 @@ Step 3: Provide the required narration or remarks(Example: Room cleaned and read
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-05-25 14-13-10.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: Click on the **Save** button![](<../../../.gitbook/assets/Screenshot From 2026-05-25 16-29-15 (3).png>) to clear the dirty room status.
+Step 4: Click on the **Save** button![](<../../../.gitbook/assets/Screenshot From 2026-05-25 16-29-15.png>) to clear the dirty room status.
 
 * Once saved successfully, the room status will be updated and the room will no longer appear as dirty.
 

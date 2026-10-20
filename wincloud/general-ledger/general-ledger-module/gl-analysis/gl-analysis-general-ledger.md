@@ -19,7 +19,7 @@ Step 2: Click the **Search** icon.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 10-46-47.png" alt=""><figcaption></figcaption></figure>
 
-Step 3: Click on the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 09-55-53 (3).png>)
+Step 3: Click on the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 09-55-53.png>)
 
 1. Select the required filter criteria from the available options.
 
@@ -27,7 +27,7 @@ Step 3: Click on the **Advanced Filter** option.![](<../../../.gitbook/assets/Sc
 
 Step 4: Click on the **Three-Dot option** ![](<../../../.gitbook/assets/Screenshot From 2026-06-10 10-50-43.png>)available on the screen.
 
-1. Select the available options as per your requirement.&#x20;
+1. Select the available options as per your requirement.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 10-48-48.png" alt=""><figcaption></figcaption></figure>
 

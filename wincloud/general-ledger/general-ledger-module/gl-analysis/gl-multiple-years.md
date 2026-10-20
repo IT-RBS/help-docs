@@ -23,7 +23,7 @@ Step 3: Click on the **Ledger** option.
 
 1. Select the required ledger name.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 11-28-20 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 11-28-20.png" alt=""><figcaption></figcaption></figure>
 
 Step 4: Click the **Search** icon.
 
@@ -31,15 +31,15 @@ Step 4: Click the **Search** icon.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 11-28-58.png" alt=""><figcaption></figcaption></figure>
 
-Step 5: Click on the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 09-55-53 (5).png>)
+Step 5: Click on the **Advanced Filter** option.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 09-55-53.png>)
 
 1. Select the required filter criteria from the available options.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 11-29-35.png" alt=""><figcaption></figcaption></figure>
 
-Step 6: Click on the **Three-Dot menu**.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 10-50-43 (2).png>)
+Step 6: Click on the **Three-Dot menu**.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 10-50-43.png>)
 
-1. Select the available options as per your requirement.&#x20;
+1. Select the available options as per your requirement.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 11-30-35.png" alt=""><figcaption></figcaption></figure>
 
@@ -49,7 +49,7 @@ Step 7: After selecting all required filters and options, click **Display**.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 11-32-09.png" alt=""><figcaption></figcaption></figure>
 
-Step 8: After generating the report :&#x20;
+Step 8: After generating the report :
 
 * Click the **Print** button ![](<../../../.gitbook/assets/image (1382).png>)to generate the report in a printable document format.
 * Click the **Excel** button ![](<../../../.gitbook/assets/image (1383).png>) to export the report to Microsoft Excel format for further analysis and reporting.

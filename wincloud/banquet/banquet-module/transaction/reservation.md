@@ -9,7 +9,7 @@ Step 1: Open **Banquet Module.**
 1. Go to **Transactions.**
 2. Click on **Reservation.**
 
-Step 2: Click on the **New** button![](<../../../.gitbook/assets/Screenshot From 2026-06-10 18-11-48 (1).png>)to start a new reservation.
+Step 2: Click on the **New** button![](<../../../.gitbook/assets/Screenshot From 2026-06-10 18-11-48.png>)to start a new reservation.
 
 Step 3: Enter Guest Details
 
@@ -17,7 +17,7 @@ Step 3: Enter Guest Details
   * Individual or Company
 * Enter the **Guest Name** or select it from the existing guest profile
 
-<figure><img src="../../../.gitbook/assets/m14 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/m14.png" alt=""><figcaption></figcaption></figure>
 
 Step 4: Fill General Reservation Details
 
@@ -50,7 +50,7 @@ Step 6: Enter Event Schedule and Setup Details
 * Service time
 * Event start time
 * Event end time
-* Department requirements or aids&#x20;
+* Department requirements or aids
 
 <figure><img src="../../../.gitbook/assets/m14.3.png" alt=""><figcaption></figcaption></figure>
 
@@ -106,7 +106,7 @@ Step 14: Select the **Event menu**
 
 <figure><img src="../../../.gitbook/assets/m14.1 (2).png" alt=""><figcaption></figcaption></figure>
 
-Step 15: After entering all required details, click on the **Save button.**![](<../../../.gitbook/assets/Screenshot From 2026-06-10 17-31-30 (1).png>)
+Step 15: After entering all required details, click on the **Save button.**![](<../../../.gitbook/assets/Screenshot From 2026-06-10 17-31-30.png>)
 
 * The reservation will be successfully created and stored in the system
 

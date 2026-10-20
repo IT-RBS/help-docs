@@ -28,7 +28,7 @@ Step 2: Select the required room status type.
 
 Step 3: Choose the room for which the status needs to be updated.
 
-Step 4: Click on the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-05-25 16-29-15 (4).png>)
+Step 4: Click on the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-05-25 16-29-15.png>)
 
 * Once saved successfully, the selected room status will be updated in the system.
 

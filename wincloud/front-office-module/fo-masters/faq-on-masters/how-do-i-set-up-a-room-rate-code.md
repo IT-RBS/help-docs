@@ -13,7 +13,7 @@ Once these codes are established, they can be utilized in several ways across th
 
 * **Company Rates:** You can link a specific Rate Code to a company profile to provide fixed corporate pricing.
 * **Daily Rates:** Rate codes are selected when defining or viewing daily rates in the Bar calendar.
-* **Derived Rates:** You can use an existing rate code as a base for Derived Rate Codes, which automatically calculate new prices based on stay duration or market segments.&#x20;
+* **Derived Rates:** You can use an existing rate code as a base for Derived Rate Codes, which automatically calculate new prices based on stay duration or market segments.
 * **Analysis:** The system uses these codes to generate Rate Code Analysis reports, helping you track revenue contribution and room nights by rate category.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-11 12-09-32 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-11 12-09-32.png" alt=""><figcaption></figcaption></figure>

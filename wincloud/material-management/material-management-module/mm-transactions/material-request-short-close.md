@@ -24,7 +24,7 @@ Step 2: Click the **Open** button.![](<../../../.gitbook/assets/Screenshot from 
 
 2. Click the **Search** icon.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 11-00-10.png>)
 
-* The system will display the list of open Material Requests associated with the selected Issue Store.&#x20;
+* The system will display the list of open Material Requests associated with the selected Issue Store.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 11-00-34.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,6 +44,6 @@ Step 4: In the **Reason** field, enter the reason for closing the Material Reque
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 11-03-11.png" alt=""><figcaption></figcaption></figure>
 
-Step 5: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 10-26-56 (1).png>)
+Step 5: Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 10-26-56.png>)
 
 * The Material Request will be successfully short-closed and removed from the list of pending requests.

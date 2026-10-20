@@ -12,7 +12,7 @@ Step 1: Go to the **Housekeeping** module from the main menu.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 17-57-56.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click on the **Open** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 16-18-03 (2).png>)
+Step 2: Click on the **Open** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 16-18-03.png>)
 
 1. From the list, select the applicable **Store**.
 
@@ -24,4 +24,4 @@ Step 3: After selecting the store, click on the **Save** button.
 
 * The Missing & Damage Item configuration will be saved successfully.
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 16-21-19 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 16-21-19.png" alt=""><figcaption></figcaption></figure>

@@ -41,7 +41,7 @@ Step 6: Review all selected criteria and filters.
 
 1. Click the **Display** button.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-08 16-47-08 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-08 16-47-08.png" alt=""><figcaption></figcaption></figure>
 
 Step 7: After generating the Bill Aging Report:
 

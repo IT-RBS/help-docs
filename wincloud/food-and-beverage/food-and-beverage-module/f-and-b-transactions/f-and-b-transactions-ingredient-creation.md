@@ -25,7 +25,7 @@ You have two options where you can create the steps of making the Item in **Prep
 
 1. Select the **Ingredient/Item**. You can select other ingredients, a purchased item (raw material) and even a finished item (another menu item) to make the recipe.
 
-![](<../../../.gitbook/assets/3 (190).png>)
+![](<../../../.gitbook/assets/6 (24).png>)
 
 1. Select the Items and enter the quantity used to create a “portion” and percentage of yield.
 2. On the bottom it will show you the total **Wastage** and Recommended price of **Cost** and **Menu** based on the Item value of the Stock.

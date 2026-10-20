@@ -17,31 +17,29 @@ description: Steps to raise a request/complaints/messages
 Steps to raise a request/complaints/messages
 
 1. Go to **Front Desk Main Menu**.
-2. Click on **Front Desk> Requests/Messages to open the page.**    <br>
+2. Click on **Front Desk> Requests/Messages to open the page.**<br>
 
 <figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
 3\. Next, select the type of message you want to post. For example, in this case, we chose **Complaint**.
 
-![](<../../.gitbook/assets/2 (27).png>)
+![](../../.gitbook/assets/139.png)
 
 5\. Select the guest type as shown below.
 
-![](<../../.gitbook/assets/3 (67).png>)
+![](../../.gitbook/assets/20.png)
 
 6. Select the room number for which you want to raise a complaint. Enter the complaint details clearly, choose the relevant department, and then click **Save**.
 
-
-
 <figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
-7. Once saved, a confirmation pop-up message appears to confirm that the complaint has been created.&#x20;
+7. Once saved, a confirmation pop-up message appears to confirm that the complaint has been created.
 
 <figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
 ### Marking a complaint/request/message as resolved
 
-If any complaints have been resolved, they can be closed. Click on the **Open** button, then select the pending complaint by clicking the button marked as 'P' .&#x20;
+If any complaints have been resolved, they can be closed. Click on the **Open** button, then select the pending complaint by clicking the button marked as 'P' .
 
 <figure><img src="../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 

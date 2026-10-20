@@ -26,4 +26,4 @@ Step 3: After entering all required details, click on the **Save** button.
 
 * The Room Status will be created successfully and added to the master list.
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 16-21-19 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 16-21-19.png" alt=""><figcaption></figcaption></figure>

@@ -12,7 +12,7 @@ This report gives an insight and understanding about the items, time and quantit
 
 You can “**Group By**” Product (Default), Product Group and Product Sub Group.
 
-![](<../../../.gitbook/assets/1 (245).png>)
+![](<../../../.gitbook/assets/1 (65).png>)
 
 It shows you the list of items with the current stock, their defined minimum and maximum stock.
 

@@ -10,4 +10,4 @@ This report is a comprehensive tool that allows you to manage and track room res
 
 This report is particularly useful for verifying the status of rooms before the Night Audit, as maintenance blocks can impact your hotel's statistical calculations.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-12 09-35-45 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-12 09-35-45.png" alt=""><figcaption></figcaption></figure>

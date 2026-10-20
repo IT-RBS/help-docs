@@ -36,6 +36,6 @@ Step 4: From the displayed list, select the Material Receipt Note that needs to 
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 14-13-20.png" alt=""><figcaption></figcaption></figure>
 
-Step 5: After selecting the required receipt, click the **Print** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 10-41-24 (2).png>)
+Step 5: After selecting the required receipt, click the **Print** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-01 10-41-24.png>)
 
 * The system will generate a reprint of the selected Material Receipt Note.

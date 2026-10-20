@@ -20,6 +20,6 @@ Step 3: Fill in the required store information.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-03 15-20-44.png" alt=""><figcaption></figcaption></figure>
 
-Step 4: After entering all necessary information, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 15-04-25 (1).png>)
+Step 4: After entering all necessary information, click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 15-04-25.png>)
 
 * The new CC Store will be created and saved successfully in the system.

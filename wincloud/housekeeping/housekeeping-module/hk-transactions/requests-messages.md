@@ -39,7 +39,7 @@ Step 5: Enter the Complaint / Request / Message details.
 
 <figure><img src="../../../.gitbook/assets/Screenshot From 2026-05-25 14-48-00.png" alt=""><figcaption></figcaption></figure>
 
-Step 6: After entering all required details, click on the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-05-25 16-29-15 (2).png>)
+Step 6: After entering all required details, click on the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-05-25 16-29-15.png>)
 
 * Once saved successfully, the Complaint / Request / Message will be recorded in the system for further action and follow-up.
 

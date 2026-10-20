@@ -4,7 +4,7 @@ description: Steps to create an Outlet
 
 # OUTLET
 
-**OUTLET**&#x20;
+**OUTLET**
 
 Outlets created here are can be used for collecting revenues from the module Front Office. These outlets can be created and assigned for charging both in-house guests as well as non staying guests in the form of miscellaneous sales.
 
@@ -30,4 +30,4 @@ Outlets created here are can be used for collecting revenues from the module Fro
 
 6\. Click “**OPEN**” to amend any details of the outlet, and click on the drop down of “OUTLET ID” to select the outlet
 
-7\. Click ![](<../../.gitbook/assets/5 (34).png>) once changes are made
+7\. Click ![](<../../.gitbook/assets/10 (7).png>) once changes are made

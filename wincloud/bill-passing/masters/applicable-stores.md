@@ -20,6 +20,6 @@ Step 2: Select the required **Purchase Type** from the available options.
 
 Step 3: Verify that all required stores have been selected.
 
-Step 4: Click the **Save** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-13-10 (5).png>)
+Step 4: Click the **Save** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-13-10.png>)
 
 * The system will validate and save the selected store configuration.

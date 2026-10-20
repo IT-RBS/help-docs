@@ -29,4 +29,4 @@ Step 4:After entering the required details, click on the **Save** button.
 
 * The system will save the Function Type successfully.
 
-<figure><img src="../../../.gitbook/assets/m26.2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/d1.2.png" alt=""><figcaption></figcaption></figure>

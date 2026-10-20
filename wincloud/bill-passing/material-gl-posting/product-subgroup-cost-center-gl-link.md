@@ -12,7 +12,7 @@ Step 1: Navigate to the **Material GL Posting** menu in the **Bill Passing** mod
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2026-06-04 12-23-20.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click the **Open** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-12-07 (5).png>)
+Step 2: Click the **Open** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-12-07.png>)
 
 1. Select the required product sub-group from the list.
 
@@ -24,6 +24,6 @@ Step 2: Click the **Open** button.![](<../../.gitbook/assets/Screenshot from 202
 
 Step 3: After confirming the ledger linking details, verify that all information is correct.
 
-1. Click the **Save** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-13-10 (4).png>)
+1. Click the **Save** button.![](<../../.gitbook/assets/Screenshot from 2026-06-04 11-13-10.png>)
 
 * The Product SubGroup will be successfully linked with the selected Cost Center and GL accounts.

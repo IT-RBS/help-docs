@@ -27,7 +27,7 @@ Step 2: After opening the report page, choose the appropriate analysis criteria.
 
 * This classification helps organisations allocate resources and inventory management efforts more effectively.
 
-Step 3: Use the Funnel Filter.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 09-52-22 (6).png>)
+Step 3: Use the Funnel Filter.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 09-52-22.png>)
 
 * The **Funnel Filter** allows users to search and analyse specific inventory data.
 

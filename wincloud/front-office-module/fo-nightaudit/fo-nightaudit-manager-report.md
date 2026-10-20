@@ -6,7 +6,7 @@ description: Steps to view manager report
 
 ### **Manager Report**
 
-The Manager report provides  an insight of Rooms, Revenue and Occupancy for the Front office Manager to get all the corresponding information related to it. \
+The Manager report provides an insight of Rooms, Revenue and Occupancy for the Front office Manager to get all the corresponding information related to it.\
 By default it will show the data in 4 columns below.
 
 Statistics, Day (last closed date), MTD and YTD.
@@ -31,7 +31,7 @@ Statistics, Day (last closed date), MTD and YTD.
 
 We have multiple filters available to modify the report and get the relevant data which can be seen on the left and right side of the “Date” area.
 
-![](<../../.gitbook/assets/Screenshot 2023-07-21 112121.png>)
+![](<../../.gitbook/assets/image (577).png>)
 
 **Revenue Summary:** When you check on Revenue Summary, It will add on an additional section that shows the revenues generated in a summarised manner against the revenue heads.
 
@@ -50,8 +50,3 @@ These reports help in a consolidated picture. An overview of Rooms and related r
 The user can also view the Manager Report for **Multi-Property** by selecting the property from top left hand side, as shown below. Also by selecting **All Properties,** the system provides a consolidated reports inclusive of all properties.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-07-21 114217.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-

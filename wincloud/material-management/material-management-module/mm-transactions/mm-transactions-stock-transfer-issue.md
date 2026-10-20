@@ -16,15 +16,15 @@ Steps To **Stock Transfer Issue.**
 
 1. The User has to select the Store type Called **Stock Transfer Issue.**
 
-![](<../../../.gitbook/assets/1 (110).png>)
+![](<../../../.gitbook/assets/49 (1).png>)
 
 1. Once the User has selected the Stock transfer issue You have to select from which store.
 
-![](<../../../.gitbook/assets/2 (199).png>)
+![](<../../../.gitbook/assets/1 (46).png>)
 
-1. Once the user has selected the "From" store he has to select the "To"  store as shown below.
+1. Once the user has selected the "From" store he has to select the "To" store as shown below.
 
-![](<../../../.gitbook/assets/3 (199).png>)
+![](<../../../.gitbook/assets/51 (1).png>)
 
 1. Once the user has selected the store then user has to select the items which need to be transferred to the other store.
 
@@ -32,6 +32,6 @@ Steps To **Stock Transfer Issue.**
 
 1. After selecting all the items click save and the stock transfer issue will be created.
 
-![](<../../../.gitbook/assets/5 (107).png>)
+![](../../../.gitbook/assets/53.png)
 
 Note: If you select the Print check Box the Issue will be printed.

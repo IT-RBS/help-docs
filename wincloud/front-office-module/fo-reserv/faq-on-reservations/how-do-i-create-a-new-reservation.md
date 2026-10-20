@@ -31,4 +31,4 @@ You can also create a reservation visually using the **Room Chart**:
 2. **Click and drag** your cursor on the calendar from the desired arrival date to the departure date for a specific room.
 3. Select **Quick Reservations** from the pop-up window; this will open the full Reservation Window with the dates already populated for you to finish the booking.
 
-<figure><img src="../../../.gitbook/assets/image (1087).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1086).png" alt=""><figcaption></figcaption></figure>

@@ -22,13 +22,13 @@ It is necessary to check whether the room tariff and rate codes posted for all t
 
 3.**Checked out Guest and settlement details**
 
-All the settlement bills and checked out guest details are to be verified with printed bills and the settlement report available in the system. If any changes are to be made in the settlement mode, resettlement to be done, any charges missed out,  all of this should be verified before the night audit.
+All the settlement bills and checked out guest details are to be verified with printed bills and the settlement report available in the system. If any changes are to be made in the settlement mode, resettlement to be done, any charges missed out, all of this should be verified before the night audit.
 
 All the settled and voided bill copies (For all outlets and all modules) have to be verified with the system reports before the night audit process.
 
 In the Front office and Point of sale modules, the settlement type report will show all the bills with the settlement details.
 
-The voided bills can be verified by using the void bill report option provided in the  Point of sale and Front office modules.
+The voided bills can be verified by using the void bill report option provided in the Point of sale and Front office modules.
 
 **1.Checking of all revenues**
 
@@ -66,7 +66,7 @@ After the completion of all verification and tariff posting, the user can execut
 
 4.Click on Create Night Balance. Once you click you get the message box as shown below.
 
-![](<../../.gitbook/assets/2 (239).png>)
+![](../../.gitbook/assets/133.png)
 
 5.Click on Proceed once the process gets **completed** it will show completed as shown below.
 

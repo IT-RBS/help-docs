@@ -34,6 +34,6 @@ Step 5: After configuring all approval levels and procedures, review the setting
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-03 16-50-49.png" alt=""><figcaption></figcaption></figure>
 
-1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 15-04-25 (5).png>)
+1. Click the **Save** button.![](<../../../.gitbook/assets/Screenshot from 2026-06-03 15-04-25.png>)
 
 * The Approval Settings will be saved successfully and applied to the selected transaction and store type.

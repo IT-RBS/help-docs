@@ -14,17 +14,17 @@ Step 1: Go to the **Housekeeping** module from the main menu.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 17-35-28.png" alt=""><figcaption></figcaption></figure>
 
-Step 2: Click on the **New** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 16-47-46 (2).png>)
+Step 2: Click on the **New** button.![](<../../../.gitbook/assets/Screenshot from 2026-05-26 16-47-46.png>)
 
 1. Enter the required details in the fields provided.
 
 * **Dispose ID -** enter a unique identification code.
 * **Dispose Name -** enter the name.
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 17-35-28 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 17-35-28.png" alt=""><figcaption></figcaption></figure>
 
 Step 3: After entering all required details, click on the **Save** button.
 
 * The Dispose record will be created successfully and added to the master list.
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 16-48-58 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2026-05-26 16-48-58.png" alt=""><figcaption></figcaption></figure>

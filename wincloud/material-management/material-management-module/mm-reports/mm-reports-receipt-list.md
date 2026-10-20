@@ -24,7 +24,7 @@ Step 2: Click the **Report Type** drop-down.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-02 10-25-12.png" alt=""><figcaption></figcaption></figure>
 
-Step 3: Click the **Advanced Filter** option![](<../../../.gitbook/assets/Screenshot from 2026-06-02 10-43-11 (1).png>) available on the screen.
+Step 3: Click the **Advanced Filter** option![](<../../../.gitbook/assets/Screenshot from 2026-06-02 10-43-11.png>) available on the screen.
 
 * Select the required filter criteria according to your reporting requirements.
 

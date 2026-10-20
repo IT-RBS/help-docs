@@ -16,7 +16,7 @@ Step 2: Click on the **CC Store Name** field.
 
 1. Select the required store from the available list.
 
-<figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 15-58-32 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot from 2026-06-01 15-58-32.png" alt=""><figcaption></figcaption></figure>
 
 Step 3: Enter the **From Date** and **To Date** to specify the period for which stock information is required.
 

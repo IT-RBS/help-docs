@@ -14,7 +14,7 @@ To instantly check in reserved guests and have the system select their rooms:
 
 4\. This allows the system to automatically select and assign rooms for the reserved guests, facilitating an instant check-in.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-11 14-19-40 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-11 14-19-40.png" alt=""><figcaption></figcaption></figure>
 
 **Using Auto Allocation for Room Assignment**
 
@@ -34,4 +34,3 @@ For group reservations, this feature helps manage multiple rooms efficiently:
 
 * **During Group Reservation:** Within the group reservation screen, click the **Auto-allocate** button to assign specific rooms to the guests in that group.
 * **During Group Check-In:** If rooms have not been pre-assigned, you can use the **auto allocation button** in the Group Check-In menu to automatically assign available rooms to the group members.
-

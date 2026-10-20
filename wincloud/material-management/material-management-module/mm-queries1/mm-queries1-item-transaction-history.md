@@ -14,23 +14,23 @@ Select the “**Store**”.
 
 Enter the date range “**From – To**”
 
-![](<../../../.gitbook/assets/2 (225).png>)
+![](<../../../.gitbook/assets/2 (45).png>)
 
 Select the “**Product**”
 
-![](<../../../.gitbook/assets/3 (147).png>)
+![](<../../../.gitbook/assets/3 (125).png>)
 
 Add “**Columns**” for additional info.
 
-![](<../../../.gitbook/assets/4 (77).png>)
+![](<../../../.gitbook/assets/4 (41).png>)
 
 Click “**Display**”
 
-![](<../../../.gitbook/assets/5 (35).png>)
+![](<../../../.gitbook/assets/5 (8).png>)
 
 It gives you a detailed and summarised report on a single page. It displays the rate you received, quantity, the name of supplier and bill no. etc.
 
-![](<../../../.gitbook/assets/6 (36).png>)![](<../../../.gitbook/assets/7 (57).png>)
+![](<../../../.gitbook/assets/6 (21).png>) ![](<../../../.gitbook/assets/7 (22).png>)
 
 You can also get the current Stock Information of the selected item by clicking as shown below
 

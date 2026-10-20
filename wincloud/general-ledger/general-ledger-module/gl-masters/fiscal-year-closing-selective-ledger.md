@@ -15,7 +15,7 @@ Step 2: Select the required **Group** from the drop-down list.
 
 * The system will display the ledgers associated with the selected group.
 
-<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 16-21-44 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot From 2026-06-10 16-21-44.png" alt=""><figcaption></figcaption></figure>
 
 Step 3: Click the **Search** icon and select the **Ledger Account** that needs to be closed.
 

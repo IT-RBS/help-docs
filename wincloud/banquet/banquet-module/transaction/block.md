@@ -29,6 +29,6 @@ Ensure all information is entered accurately to avoid booking conflicts.
 
 <figure><img src="../../../.gitbook/assets/m13.png" alt=""><figcaption></figcaption></figure>
 
-Step 3: After verifying all entered details, click on the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 17-31-30 (3).png>)
+Step 3: After verifying all entered details, click on the **Save** button.![](<../../../.gitbook/assets/Screenshot From 2026-06-10 17-31-30.png>)
 
 * The system will create and register the Block successfully.

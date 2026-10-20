@@ -18,15 +18,10 @@ description: Steps to create a Company Rate.
 
 4.Click on Add button,
 
-<figure><img src="../../../.gitbook/assets/Cp3 (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/Cp3.png" alt=""><figcaption></figcaption></figure>
 
 5.Click on search icon we can able to see Rate Type Search is shown below.
 
-<figure><img src="../../../.gitbook/assets/Cp3 (2).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/Cp3.png" alt=""><figcaption></figcaption></figure>
 
 6.Click on Save button Company Rate will Added successfully.
-
