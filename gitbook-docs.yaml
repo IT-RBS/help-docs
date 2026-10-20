@@ -1,0 +1,30 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Help Documentation
+  structure:
+    - type: space
+      key: space-1
+      title: Help Documentation
+      path: wincloud
+      default: true
+      content:
+        directory: ./wincloud
+    - type: space
+      key: space-2
+      title: DinePlan
+      path: dineplan
+      content:
+        directory: ./dineplan
+    - type: space
+      key: space-3
+      title: Hindi Wincloud
+      path: hindi-wincloud
+      draft: true
+      content:
+        directory: ./hindi-wincloud
+    - type: space
+      key: space-4
+      title: Product Modules & Interfaces
+      path: product-modules-and-interfaces
+      content:
+        directory: ./product-modules-and-interfaces
