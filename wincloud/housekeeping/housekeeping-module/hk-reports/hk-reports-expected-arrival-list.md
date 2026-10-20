@@ -1,0 +1,27 @@
+---
+description: Steps to view expected arrival list
+---
+
+# Expected Arrival List
+
+EXPECTED ARRIVAL LIST
+
+Expected arrival list is quite similar to expected arrival report, but in here it shows the report for a period of time of the user’s choice. Here the arrivals expected list can be filtered on the basis of date and time.
+
+1. To view the report, go to “HOUSE KEEPING” module “QUERIES 1” “EXPECTED ARRIVAL LIST”
+2. To change the date, click on ![](<../../../.gitbook/assets/1 (219).png>) icon and select the required date
+3. Select the required dates and the time from the drop down
+
+![](<../../../.gitbook/assets/2 (213).png>)
+
+1. Click on ![](<../../../.gitbook/assets/3 (121).png>) icon to filter and search for any reservation
+
+![](<../../../.gitbook/assets/4 (60).png>)
+
+1. To see more details of the reservation, click ![](<../../../.gitbook/assets/5 (77).png>)
+
+![](<../../../.gitbook/assets/6 (17).png>)
+
+1. Select the required fields from the list and click ![](<../../../.gitbook/assets/7 (48).png>) .This adds columns in the report with details if they were added during reservation.
+2. Click ![](<../../../.gitbook/assets/8 (7).png>) to view the report once filters are applied
+3. This report can be either converted to excel by clicking ![](<../../../.gitbook/assets/9 (20).png>) or printed by clicking ![](<../../../.gitbook/assets/10 (3).png>)
