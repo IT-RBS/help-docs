@@ -4,7 +4,7 @@ site:
   structure:
     - type: space
       key: space-1
-      title: Help Documentation
+      title: WinCloud
       path: wincloud
       default: true
       content:
@@ -28,10 +28,3 @@ site:
       path: product-modules-and-interfaces
       content:
         directory: ./product-modules-and-interfaces
-    - type: space
-      key: space-5
-      title: Untitled
-      path: untitled
-      draft: true
-      content:
-        directory: ./untitled
