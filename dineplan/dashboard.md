@@ -12,10 +12,10 @@ The Dashboard provides access to the key modules required to manage daily restau
 
 <figure><img src=".gitbook/assets/att_0_for_3348758537.png" alt=""><figcaption></figcaption></figure>
 
-* [**Front Desk**](https://app.gitbook.com/s/pUHisiUrc8UAW7vGIjXa/front-desk) – Provides access to reports, till operations, sold-out items, and other front-desk functions. Use this module to review operational information and perform tasks related to front-desk and till management.
+* [**Front Desk**](https://app.gitbook.com/s/0EE0WqKESoD8hlEpFQQL/front-desk) – Provides access to reports, till operations, sold-out items, and other front-desk functions. Use this module to review operational information and perform tasks related to front-desk and till management.
 * [**Work Day**](https://app.gitbook.com/s/0EE0WqKESoD8hlEpFQQL/workday) – Used to manage the restaurant’s daily operations, including cashier attendance and the business day. Start the **Work Day** from this module to begin the day’s operations and enable the relevant system functions.
-* [**Back Office**](https://app.gitbook.com/s/pUHisiUrc8UAW7vGIjXa/pos) – Provides access to restaurant administration, configuration, and management functions. Use this module to manage settings and perform administrative tasks that support the restaurant’s day-to-day operations.
-* [**POS**](https://app.gitbook.com/s/pUHisiUrc8UAW7vGIjXa/pos) – Used to create customer orders, add items, generate bills, process payments, and complete transactions.
+* [**Back Office**](https://app.gitbook.com/s/0EE0WqKESoD8hlEpFQQL/backoffice) – Provides access to restaurant administration, configuration, and management functions. Use this module to manage settings and perform administrative tasks that support the restaurant’s day-to-day operations.
+* [**POS**](https://app.gitbook.com/s/0EE0WqKESoD8hlEpFQQL/pos) – Used to create customer orders, add items, generate bills, process payments, and complete transactions.
 
 **Note:** The POS option becomes available once the **Work Day is started** and remains ready for processing customer transactions during the active work day.
 
