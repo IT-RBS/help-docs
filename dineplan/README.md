@@ -13,7 +13,7 @@ The application is organized into six main sections:
 1. [**Front Desk**](https://app.gitbook.com/s/pUHisiUrc8UAW7vGIjXa/front-desk)
 2. [**Work Day**](https://app.gitbook.com/s/pUHisiUrc8UAW7vGIjXa/workday)
 3. [**Back Office**](https://app.gitbook.com/s/pUHisiUrc8UAW7vGIjXa/backoffice)
-4. [**POS**](https://app.gitbook.com/s/pUHisiUrc8UAW7vGIjXa/pos)
+4. [**POS**](https://app.gitbook.com/s/0EE0WqKESoD8hlEpFQQL/pos)
 5. [**Tickets**](tickets/)
 6. [**Log Out**](logout.md)
 
