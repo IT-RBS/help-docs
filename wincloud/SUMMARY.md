@@ -1,16 +1,16 @@
 # Table of contents
 
-* [WINCLOUD Help](README.md)
+* [WinCloud Help](README.md)
 
 ## General
 
-* [SECURITY & SAFETY](general/security-and-safety.md)
+* [Security & Safety](general/security-and-safety.md)
 
 ***
 
 * [DASHBOARD](dashboard.md)
-* [FRONT OFFICE](front-office.md)
-* [FRONT OFFICE MODULE](front-office-module/README.md)
+* [Front Office](front-office.md)
+* [Front Office Module](front-office-module/README.md)
   * [RESERVATION](front-office-module/fo-reserv/README.md)
     * [Overview](front-office-module/fo-reserv/overview.md)
     * [Getting Started](front-office-module/fo-reserv/getting-started.md)
