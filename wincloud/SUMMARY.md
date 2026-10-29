@@ -11,7 +11,7 @@
 * [DASHBOARD](dashboard.md)
 * [Front Office](front-office.md)
 * [Front Office Module](front-office-module/README.md)
-  * [RESERVATION](front-office-module/fo-reserv/README.md)
+  * [Reservation](front-office-module/fo-reserv/README.md)
     * [Overview](front-office-module/fo-reserv/overview.md)
     * [Getting Started](front-office-module/fo-reserv/getting-started.md)
     * [Reservation Creation](front-office-module/fo-reserv/reservation-creation/README.md)
